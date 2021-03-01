@@ -1,0 +1,1834 @@
+fileFormatVersion: 2
+guid: 78bc8a65fe6e895409a9f94ef2384786
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6936705563087347202
+    second: NaveEnemigo01Idle_0
+  - first:
+      213: 857153913990154896
+    second: NaveEnemigo01Idle_1
+  - first:
+      213: -2519991158448522917
+    second: NaveEnemigo01Idle_2
+  - first:
+      213: -8011355566667084120
+    second: NaveEnemigo01Idle_3
+  - first:
+      213: -8347014216235778515
+    second: NaveEnemigo01Idle_4
+  - first:
+      213: -7725952699409299907
+    second: NaveEnemigo01Idle_5
+  - first:
+      213: -6574856557136210239
+    second: NaveEnemigo01Idle_6
+  - first:
+      213: -6414410881413313595
+    second: NaveEnemigo01Idle_7
+  - first:
+      213: 294727488064850321
+    second: NaveEnemigo01Idle_8
+  - first:
+      213: 4123591364938781313
+    second: NaveEnemigo01Idle_9
+  - first:
+      213: -7758942080431042861
+    second: NaveEnemigo01Idle_10
+  - first:
+      213: 2332249669382046399
+    second: NaveEnemigo01Idle_11
+  - first:
+      213: -7951488169614054442
+    second: NaveEnemigo01Idle_12
+  - first:
+      213: -1177763948775331295
+    second: NaveEnemigo01Idle_13
+  - first:
+      213: -5368970970355870667
+    second: NaveEnemigo01Idle_14
+  - first:
+      213: 6274248819610338383
+    second: NaveEnemigo01Idle_15
+  - first:
+      213: 2699347737070082177
+    second: NaveEnemigo01Idle_16
+  - first:
+      213: -7262169797893015604
+    second: NaveEnemigo01Idle_17
+  - first:
+      213: 8109554113704677894
+    second: NaveEnemigo01Idle_18
+  - first:
+      213: -1578202949273873699
+    second: NaveEnemigo01Idle_19
+  - first:
+      213: 3585947125466167634
+    second: NaveEnemigo01Idle_20
+  - first:
+      213: -4594935946546620186
+    second: NaveEnemigo01Idle_21
+  - first:
+      213: -7443007742600823384
+    second: NaveEnemigo01Idle_22
+  - first:
+      213: -3063339348869687466
+    second: NaveEnemigo01Idle_23
+  - first:
+      213: 6693750690818844472
+    second: NaveEnemigo01Idle_24
+  - first:
+      213: -6727870718543589482
+    second: NaveEnemigo01Idle_25
+  - first:
+      213: 7454339222665233716
+    second: NaveEnemigo01Idle_26
+  - first:
+      213: -2096078797404085139
+    second: NaveEnemigo01Idle_27
+  - first:
+      213: 7059388305760609368
+    second: NaveEnemigo01Idle_28
+  - first:
+      213: 6994994208966347621
+    second: NaveEnemigo01Idle_29
+  - first:
+      213: 5863167728152440642
+    second: NaveEnemigo01Idle_30
+  - first:
+      213: -7344005760773520050
+    second: NaveEnemigo01Idle_31
+  - first:
+      213: -1668154179555124935
+    second: NaveEnemigo01Idle_32
+  - first:
+      213: 5293043083758112197
+    second: NaveEnemigo01Idle_33
+  - first:
+      213: 1031454279082830753
+    second: NaveEnemigo01Idle_34
+  - first:
+      213: 7632214362300816899
+    second: NaveEnemigo01Idle_35
+  - first:
+      213: -2126469467884498944
+    second: NaveEnemigo01Idle_36
+  - first:
+      213: -8187752111756818152
+    second: NaveEnemigo01Idle_37
+  - first:
+      213: 8343347799218156627
+    second: NaveEnemigo01Idle_38
+  - first:
+      213: 2617962247429546179
+    second: NaveEnemigo01Idle_39
+  - first:
+      213: 3363014495799762859
+    second: NaveEnemigo01Idle_40
+  - first:
+      213: -5942742669742574796
+    second: NaveEnemigo01Idle_41
+  - first:
+      213: 1392438478027007674
+    second: NaveEnemigo01Idle_42
+  - first:
+      213: -6965338400358042236
+    second: NaveEnemigo01Idle_43
+  - first:
+      213: -5795390365837299659
+    second: NaveEnemigo01Idle_44
+  - first:
+      213: 3724501773833130130
+    second: NaveEnemigo01Idle_45
+  - first:
+      213: 633203346671324512
+    second: NaveEnemigo01Idle_46
+  - first:
+      213: -918396347585955022
+    second: NaveEnemigo01Idle_47
+  - first:
+      213: -6327670249072464434
+    second: NaveEnemigo01Idle_48
+  - first:
+      213: -2191733800100128931
+    second: NaveEnemigo01Idle_49
+  - first:
+      213: -229732354461446600
+    second: NaveEnemigo01Idle_50
+  - first:
+      213: 5664716965740482255
+    second: NaveEnemigo01Idle_51
+  - first:
+      213: 4725618971875526593
+    second: NaveEnemigo01Idle_52
+  - first:
+      213: -5265319577212725641
+    second: NaveEnemigo01Idle_53
+  - first:
+      213: -8982133123394170146
+    second: NaveEnemigo01Idle_54
+  - first:
+      213: -1915249044794602498
+    second: NaveEnemigo01Idle_55
+  - first:
+      213: -2833866229582933957
+    second: NaveEnemigo01Idle_56
+  - first:
+      213: 5612256898902628641
+    second: NaveEnemigo01Idle_57
+  - first:
+      213: 3801808565941509477
+    second: NaveEnemigo01Idle_58
+  - first:
+      213: 156644964600768494
+    second: NaveEnemigo01Idle_59
+  - first:
+      213: 4145131659441854194
+    second: NaveEnemigo01Idle_60
+  - first:
+      213: -8595586116180077499
+    second: NaveEnemigo01Idle_61
+  - first:
+      213: 4114245019915749816
+    second: NaveEnemigo01Idle_62
+  - first:
+      213: 5528301526996783626
+    second: NaveEnemigo01Idle_63
+  - first:
+      213: 7516142361712273603
+    second: NaveEnemigo01Idle_64
+  - first:
+      213: 735497888301258326
+    second: NaveEnemigo01Idle_65
+  - first:
+      213: 1727551698106450930
+    second: NaveEnemigo01Idle_66
+  - first:
+      213: -1127707508838373480
+    second: NaveEnemigo01Idle_67
+  - first:
+      213: 5983317969022346866
+    second: NaveEnemigo01Idle_68
+  - first:
+      213: 8936837782239779708
+    second: NaveEnemigo01Idle_69
+  - first:
+      213: -3655348709528337830
+    second: NaveEnemigo01Idle_70
+  - first:
+      213: 372048023653662389
+    second: NaveEnemigo01Idle_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8448
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e1c4715f0244060800000000000000
+      internalID: 6936705563087347202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_1
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 8448
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a083181f835eb00800000000000000
+      internalID: 857153913990154896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 8448
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59fc839461370dd0800000000000000
+      internalID: -2519991158448522917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 8448
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aec57fde82f1d090800000000000000
+      internalID: -8011355566667084120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 8448
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e71227bc2792c80800000000000000
+      internalID: -8347014216235778515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_5
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 8448
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d360d3824f6e7c490800000000000000
+      internalID: -7725952699409299907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7680
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c69fbedbca61c4a0800000000000000
+      internalID: -6574856557136210239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_7
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 7680
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb85f1d94f6bf6a0800000000000000
+      internalID: -6414410881413313595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 7680
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19906afb615171400800000000000000
+      internalID: 294727488064850321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_9
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 7680
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1825b0aaf70f93930800000000000000
+      internalID: 4123591364938781313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_10
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 7680
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dec3175943b25490800000000000000
+      internalID: -7758942080431042861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_11
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 7680
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb20a0fa7b0dd5020800000000000000
+      internalID: 2332249669382046399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6912
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbee6673a3a6a190800000000000000
+      internalID: -7951488169614054442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_13
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 6912
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a2cfbbdedb7afe0800000000000000
+      internalID: -1177763948775331295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 6912
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534dd8639559d75b0800000000000000
+      internalID: -5368970970355870667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 6912
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44c94d1f0c921750800000000000000
+      internalID: 6274248819610338383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_16
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 6912
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18811511772067520800000000000000
+      internalID: 2699347737070082177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_17
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 6912
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc73402ab07973b90800000000000000
+      internalID: -7262169797893015604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6144
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602dc2a008cea8070800000000000000
+      internalID: 8109554113704677894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_19
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 6144
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd29e0187c8191ae0800000000000000
+      internalID: -1578202949273873699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 6144
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2597eb459e7d3c130800000000000000
+      internalID: 3585947125466167634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_21
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 6144
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e85a640a128b30c0800000000000000
+      internalID: -4594935946546620186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_22
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 6144
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adbbc194ef15b890800000000000000
+      internalID: -7443007742600823384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_23
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 6144
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657552ca715dc75d0800000000000000
+      internalID: -3063339348869687466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5376
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837684dc9caf4ec50800000000000000
+      internalID: 6693750690818844472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_25
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 5376
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f057e2a3dc1a2a0800000000000000
+      internalID: -6727870718543589482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_26
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 5376
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435093a3702237760800000000000000
+      internalID: 7454339222665233716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_27
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 5376
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d646083707b39e2e0800000000000000
+      internalID: -2096078797404085139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_28
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 5376
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8546868034cf7f160800000000000000
+      internalID: 7059388305760609368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_29
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 5376
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b8a570c26331160800000000000000
+      internalID: 6994994208966347621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f6f0ffbf72e5150800000000000000
+      internalID: 5863167728152440642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_31
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 4608
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e450ca8bba9d41a90800000000000000
+      internalID: -7344005760773520050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_32
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 4608
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9399809ac9689d8e0800000000000000
+      internalID: -1668154179555124935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_33
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 4608
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd8d3414aaa47940800000000000000
+      internalID: 5293043083758112197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_34
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 4608
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abe9c2b336705e00800000000000000
+      internalID: 1031454279082830753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_35
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 4608
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e139a76821be960800000000000000
+      internalID: 7632214362300816899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000d70519434d72e0800000000000000
+      internalID: -2126469467884498944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_37
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 3840
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819c7cdb5d24f5e80800000000000000
+      internalID: -8187752111756818152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_38
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3840
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3547fe15e9689c370800000000000000
+      internalID: 8343347799218156627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_39
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 3840
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0eb612bced45420800000000000000
+      internalID: 2617962247429546179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_40
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3840
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf52acadd3dbae20800000000000000
+      internalID: 3363014495799762859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_41
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 3840
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433ff622703278da0800000000000000
+      internalID: -5942742669742574796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6a2661b6fe25310800000000000000
+      internalID: 1392438478027007674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_43
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 3072
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485754af0a5265f90800000000000000
+      internalID: -6965338400358042236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_44
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3072
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530fb85ea23a29fa0800000000000000
+      internalID: -5795390365837299659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_45
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 3072
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290d2aa41a610b330800000000000000
+      internalID: 3724501773833130130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_46
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3072
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dcee4c61799c800800000000000000
+      internalID: 633203346671324512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_47
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 3072
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b7f1343633143f0800000000000000
+      internalID: -918396347585955022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd6a341f699f28a0800000000000000
+      internalID: -6327670249072464434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_49
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2304
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5790da98b56591e0800000000000000
+      internalID: -2191733800100128931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_50
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2304
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e49ea04a3dfccf0800000000000000
+      internalID: -229732354461446600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_51
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2304
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce0710411e1d9e40800000000000000
+      internalID: 5664716965740482255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_52
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2304
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7cc72ea65c49140800000000000000
+      internalID: 4725618971875526593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_53
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 2304
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776535bcdb3dde6b0800000000000000
+      internalID: -5265319577212725641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed212de738d095380800000000000000
+      internalID: -8982133123394170146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_55
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1536
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb8c94242bab65e0800000000000000
+      internalID: -1915249044794602498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_56
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1536
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30dbbcbda51ca8d0800000000000000
+      internalID: -2833866229582933957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_57
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1536
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129935f1aedb2ed40800000000000000
+      internalID: 5612256898902628641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_58
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1536
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d1bf47fbcb2c430800000000000000
+      internalID: 3801808565941509477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_59
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 1536
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7e1eee3c38c2200800000000000000
+      internalID: 156644964600768494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6d14c4847768930800000000000000
+      internalID: 4145131659441854194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_61
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 768
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5449eccf7f756b880800000000000000
+      internalID: -8595586116180077499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_62
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 768
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b98ff22c0cb81930800000000000000
+      internalID: 4114245019915749816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_63
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 768
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0294e7d2f878bc40800000000000000
+      internalID: 5528301526996783626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_64
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 768
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8202fd7a3be4860800000000000000
+      internalID: 7516142361712273603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_65
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 768
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6561f3dbe63053a00800000000000000
+      internalID: 735497888301258326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f302c0dd1f79f710800000000000000
+      internalID: 1727551698106450930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_67
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897e52ddef39950f0800000000000000
+      internalID: -1127707508838373480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_68
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276e9c9edf3090350800000000000000
+      internalID: 5983317969022346866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_69
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 0
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b11b11d96060c70800000000000000
+      internalID: 8936837782239779708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_70
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 0
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52816e27b7954dc0800000000000000
+      internalID: -3655348709528337830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveEnemigo01Idle_71
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 0
+        width: 550
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be3341d4b7c92500800000000000000
+      internalID: 372048023653662389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
