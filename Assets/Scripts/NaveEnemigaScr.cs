@@ -5,6 +5,8 @@ using UnityEngine;
 public class NaveEnemigaScr : MonoBehaviour
 {
     Rigidbody2D rb;
+    public int vidaInicial = 4;
+    public int vidaActual;
     Vector2 moviment = new Vector2();
     [SerializeField] float velX = -5f;
     [SerializeField] int tipusMoviment;
@@ -18,6 +20,7 @@ public class NaveEnemigaScr : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        vidaActual = vidaInicial;
         player = GameObject.FindGameObjectWithTag("Player");
         rb = gameObject.GetComponent<Rigidbody2D>();
         velY = Random.Range(-2f, 2f);
@@ -46,6 +49,11 @@ public class NaveEnemigaScr : MonoBehaviour
     {
         CalcularMoviment(tipusMoviment);
         rb.velocity = moviment;
+    }
+
+    private void DestruirEnemigo()
+    {
+        Destroy(gameObject);
     }
 
     void CalcularMoviment(int tipus)
@@ -110,6 +118,14 @@ public class NaveEnemigaScr : MonoBehaviour
         else
         {
             velX = -10f;
+        }
+    }
+
+    public void TakeDamage(int dmg)
+    {
+        vidaActual -= dmg;
+        if (vidaActual <= 0){
+            DestruirEnemigo();
         }
     }
 

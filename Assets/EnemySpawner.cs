@@ -8,9 +8,11 @@ public class EnemySpawner : MonoBehaviour
     [SerializeField] GameObject enemy1;
     [SerializeField] GameObject enemy2;
     [SerializeField] GameObject enemy3;
+    private float globalDelay = 16;
+    private int spawnCounter = 0;
     void Start()
     {
-        
+        StartCoroutine(RondaSpawn(2));
     }
 
     // Update is called once per frame
@@ -18,9 +20,22 @@ public class EnemySpawner : MonoBehaviour
     {
 
 
-            foreach (Transform child in transform)
-            {
-         
-            }
+
+    }
+
+    private IEnumerator RondaSpawn(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        SpawnEnemigos();
+        StartCoroutine(RondaSpawn(globalDelay));
+    }
+
+    private void SpawnEnemigos()
+    {
+        spawnCounter++;
+        foreach (Transform child in transform)
+        {
+            Instantiate(enemy1, child.position, child.rotation);
+        }
     }
 }

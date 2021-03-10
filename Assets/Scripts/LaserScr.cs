@@ -19,4 +19,25 @@ public class LaserScr : MonoBehaviour
     {
         rb.velocity = transform.up*-speed;    
     }
+
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+     if (!enemigo)
+        {
+            if (collision.CompareTag("Enemy"))
+            {
+                collision.GetComponent<NaveEnemigaScr>().TakeDamage(1);
+                Destroy(gameObject);
+            }
+        }
+        else
+        {
+                if (collision.CompareTag("Player"))
+            {
+                collision.GetComponent<PlayerStatus>().TakeDamage(1);
+                Destroy(gameObject);
+            }
+        }   
+    }
 }
