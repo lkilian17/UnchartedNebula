@@ -1,0 +1,1918 @@
+fileFormatVersion: 2
+guid: 087b0ceccae4a51428405062d2466928
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1900485395342688728
+    second: NaveLaserAttack_0
+  - first:
+      213: -7653196534565153691
+    second: NaveLaserAttack_1
+  - first:
+      213: 8130647801806901695
+    second: NaveLaserAttack_2
+  - first:
+      213: -6858732491529318621
+    second: NaveLaserAttack_3
+  - first:
+      213: 8075103323584134505
+    second: NaveLaserAttack_4
+  - first:
+      213: -7350627385394246095
+    second: NaveLaserAttack_5
+  - first:
+      213: -2781159876571877626
+    second: NaveLaserAttack_6
+  - first:
+      213: -6706811183923394296
+    second: NaveLaserAttack_7
+  - first:
+      213: 1259956897504729322
+    second: NaveLaserAttack_8
+  - first:
+      213: 3846974412485827895
+    second: NaveLaserAttack_9
+  - first:
+      213: -3067357149049925590
+    second: NaveLaserAttack_10
+  - first:
+      213: -4674100543000279388
+    second: NaveLaserAttack_11
+  - first:
+      213: 8090052774859450229
+    second: NaveLaserAttack_12
+  - first:
+      213: -3820152043040227851
+    second: NaveLaserAttack_13
+  - first:
+      213: 412003943849675457
+    second: NaveLaserAttack_14
+  - first:
+      213: -3102144311820792657
+    second: NaveLaserAttack_15
+  - first:
+      213: -8766788217650079367
+    second: NaveLaserAttack_16
+  - first:
+      213: -6332942698033762363
+    second: NaveLaserAttack_17
+  - first:
+      213: 8336731834244041738
+    second: NaveLaserAttack_18
+  - first:
+      213: -8708275939969970586
+    second: NaveLaserAttack_19
+  - first:
+      213: 6514047807609599000
+    second: NaveLaserAttack_20
+  - first:
+      213: -724155437061300944
+    second: NaveLaserAttack_21
+  - first:
+      213: -6688883877018916325
+    second: NaveLaserAttack_22
+  - first:
+      213: -8887686534569616553
+    second: NaveLaserAttack_23
+  - first:
+      213: 2688035066697663982
+    second: NaveLaserAttack_24
+  - first:
+      213: -8644897293924194344
+    second: NaveLaserAttack_25
+  - first:
+      213: 6710424561387262820
+    second: NaveLaserAttack_26
+  - first:
+      213: -3588269737640534580
+    second: NaveLaserAttack_27
+  - first:
+      213: 4785473496827063683
+    second: NaveLaserAttack_28
+  - first:
+      213: 927611190123407221
+    second: NaveLaserAttack_29
+  - first:
+      213: -7368661281230911235
+    second: NaveLaserAttack_30
+  - first:
+      213: -6368408263363695042
+    second: NaveLaserAttack_31
+  - first:
+      213: -2445024205889271152
+    second: NaveLaserAttack_32
+  - first:
+      213: 2232787167079149535
+    second: NaveLaserAttack_33
+  - first:
+      213: -6616369718654172159
+    second: NaveLaserAttack_34
+  - first:
+      213: 1308938278347630217
+    second: NaveLaserAttack_35
+  - first:
+      213: 3194444121094302222
+    second: NaveLaserAttack_36
+  - first:
+      213: 1554346478784463178
+    second: NaveLaserAttack_37
+  - first:
+      213: 51179737851261024
+    second: NaveLaserAttack_38
+  - first:
+      213: -3796725946337747520
+    second: NaveLaserAttack_39
+  - first:
+      213: 2538799177745192697
+    second: NaveLaserAttack_40
+  - first:
+      213: -1367116450345281665
+    second: NaveLaserAttack_41
+  - first:
+      213: -2528291205382375645
+    second: NaveLaserAttack_42
+  - first:
+      213: 546556623382581403
+    second: NaveLaserAttack_43
+  - first:
+      213: -6067016727451141752
+    second: NaveLaserAttack_44
+  - first:
+      213: 2290996332492922427
+    second: NaveLaserAttack_45
+  - first:
+      213: -9126969861237986033
+    second: NaveLaserAttack_46
+  - first:
+      213: -8706081821836416145
+    second: NaveLaserAttack_47
+  - first:
+      213: -955194312562350163
+    second: NaveLaserAttack_48
+  - first:
+      213: -1562146043997307435
+    second: NaveLaserAttack_49
+  - first:
+      213: -8140125062879823623
+    second: NaveLaserAttack_50
+  - first:
+      213: -5942933157925194264
+    second: NaveLaserAttack_51
+  - first:
+      213: -7665969700007883188
+    second: NaveLaserAttack_52
+  - first:
+      213: -8966482510373278234
+    second: NaveLaserAttack_53
+  - first:
+      213: 1580398143645711524
+    second: NaveLaserAttack_54
+  - first:
+      213: -7694369615916781072
+    second: NaveLaserAttack_55
+  - first:
+      213: 1882722713259943572
+    second: NaveLaserAttack_56
+  - first:
+      213: 7136222233610600246
+    second: NaveLaserAttack_57
+  - first:
+      213: 7953395134996311997
+    second: NaveLaserAttack_58
+  - first:
+      213: 5969777034647278280
+    second: NaveLaserAttack_59
+  - first:
+      213: -8714114557605848519
+    second: NaveLaserAttack_60
+  - first:
+      213: -600556321351606276
+    second: NaveLaserAttack_61
+  - first:
+      213: 7154361073128950488
+    second: NaveLaserAttack_62
+  - first:
+      213: 36822328943410693
+    second: NaveLaserAttack_63
+  - first:
+      213: -5715030527835422253
+    second: NaveLaserAttack_64
+  - first:
+      213: -8046906370918688038
+    second: NaveLaserAttack_65
+  - first:
+      213: -4297187974193455384
+    second: NaveLaserAttack_66
+  - first:
+      213: -2801584167122840500
+    second: NaveLaserAttack_67
+  - first:
+      213: 9201244012227013200
+    second: NaveLaserAttack_68
+  - first:
+      213: -8663703806908936633
+    second: NaveLaserAttack_69
+  - first:
+      213: -4503647868781841803
+    second: NaveLaserAttack_70
+  - first:
+      213: -597069120831746283
+    second: NaveLaserAttack_71
+  - first:
+      213: 3303679158863331329
+    second: NaveLaserAttack_72
+  - first:
+      213: -4340414823371909217
+    second: NaveLaserAttack_73
+  - first:
+      213: 2141988091788888082
+    second: NaveLaserAttack_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NaveLaserAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6336
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1083ad561ef5a10800000000000000
+      internalID: 1900485395342688728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_1
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 6336
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5645ef8dc426ac590800000000000000
+      internalID: -7653196534565153691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_2
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 6336
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1d284091dd5d070800000000000000
+      internalID: 8130647801806901695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 6336
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f07f85323e0d0a0800000000000000
+      internalID: -6858732491529318621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 6336
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dfec660b7801070800000000000000
+      internalID: 8075103323584134505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_5
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 6336
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e415996535df990800000000000000
+      internalID: -7350627385394246095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5808
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f2d55d3d55769d0800000000000000
+      internalID: -2781159876571877626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_7
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 5808
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80901ae23ce9ce2a0800000000000000
+      internalID: -6706811183923394296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_8
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 5808
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8921c6f144c7110800000000000000
+      internalID: 1259956897504729322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 5808
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d1c3498d2336530800000000000000
+      internalID: 3846974412485827895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 5808
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20df9bacee8e65d0800000000000000
+      internalID: -3067357149049925590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_11
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 5808
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a602021252422fb0800000000000000
+      internalID: -4674100543000279388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5280
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57729a3c224a54070800000000000000
+      internalID: 8090052774859450229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 5280
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdba96f4f71cfac0800000000000000
+      internalID: -3820152043040227851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_14
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 5280
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca483f676bb7b500800000000000000
+      internalID: 412003943849675457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_15
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 5280
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac4ceb2f28f2f4d0800000000000000
+      internalID: -3102144311820792657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_16
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 5280
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97913e1809c165680800000000000000
+      internalID: -8766788217650079367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_17
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 5280
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf2bc46b2edc18a0800000000000000
+      internalID: -6332942698033762363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4752
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c8ecfee6502b370800000000000000
+      internalID: 8336731834244041738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_19
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 4752
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e4208cb2df52780800000000000000
+      internalID: -8708275939969970586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_20
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 4752
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8147b76d7fb866a50800000000000000
+      internalID: 6514047807609599000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_21
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 4752
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d1bcb777843f5f0800000000000000
+      internalID: -724155437061300944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_22
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 4752
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a23769d8f4c23a0800000000000000
+      internalID: -6688883877018916325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_23
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 4752
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b94ff8f2898a480800000000000000
+      internalID: -8887686534569616553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4224
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5ce4eb6a1dd4520800000000000000
+      internalID: 2688035066697663982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_25
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 4224
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7a9ebb6b7270880800000000000000
+      internalID: -8644897293924194344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_26
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 4224
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4635b81d597302d50800000000000000
+      internalID: 6710424561387262820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_27
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 4224
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdd6a16fa7e33ec0800000000000000
+      internalID: -3588269737640534580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_28
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 4224
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d6c647aca696240800000000000000
+      internalID: 4785473496827063683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_29
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 4224
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577abf476798fdc00800000000000000
+      internalID: 927611190123407221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3696
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df88e060b914db990800000000000000
+      internalID: -7368661281230911235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_31
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3696
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e6b8dfc6ede97a0800000000000000
+      internalID: -6368408263363695042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_32
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 3696
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a0db46077811ed0800000000000000
+      internalID: -2445024205889271152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_33
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 3696
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfadc049147cfe10800000000000000
+      internalID: 2232787167079149535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_34
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 3696
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10487f0cbceed24a0800000000000000
+      internalID: -6616369718654172159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_35
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 3696
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98662d9dd684a2210800000000000000
+      internalID: 1308938278347630217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a29a4d002f45c20800000000000000
+      internalID: 3194444121094302222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_37
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3168
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41c3dd13e5229510800000000000000
+      internalID: 1554346478784463178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_38
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 3168
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060725e43b3d5b000800000000000000
+      internalID: 51179737851261024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_39
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 3168
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd97032ed15f4bc0800000000000000
+      internalID: -3796725946337747520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_40
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 3168
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f65e89a660ab3320800000000000000
+      internalID: 2538799177745192697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_41
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 3168
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77939ae4d6070de0800000000000000
+      internalID: -1367116450345281665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2640
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327707e4b84b9ecd0800000000000000
+      internalID: -2528291205382375645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_43
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2640
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b901b5a6a52c59700800000000000000
+      internalID: 546556623382581403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_44
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2640
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889fbe94e60adcba0800000000000000
+      internalID: -6067016727451141752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_45
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2640
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e96f3b6014bcf10800000000000000
+      internalID: 2290996332492922427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_46
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 2640
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0da639944d765180800000000000000
+      internalID: -9126969861237986033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_47
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 2640
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b64f7b5b8cd2780800000000000000
+      internalID: -8706081821836416145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da76f3465d77eb2f0800000000000000
+      internalID: -955194312562350163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_49
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2112
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd32481374225ae0800000000000000
+      internalID: -1562146043997307435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_50
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2112
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f83bcf2267780f80800000000000000
+      internalID: -8140125062879823623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_51
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2112
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e57af5a7c5768da0800000000000000
+      internalID: -5942933157925194264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_52
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 2112
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e4f148c210d9590800000000000000
+      internalID: -7665969700007883188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_53
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 2112
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eda27cc9a7a09380800000000000000
+      internalID: -8966482510373278234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac70b30db3bee510800000000000000
+      internalID: 1580398143645711524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_55
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1584
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1b8b0d99b183590800000000000000
+      internalID: -7694369615916781072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_56
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1584
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4962b662556c02a10800000000000000
+      internalID: 1882722713259943572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_57
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1584
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fba98ef44f80360800000000000000
+      internalID: 7136222233610600246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_58
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1584
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf66c38cb2206e60800000000000000
+      internalID: 7953395134996311997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_59
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1584
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c29f627598e8d250800000000000000
+      internalID: 5969777034647278280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ad7ddaafe311780800000000000000
+      internalID: -8714114557605848519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_61
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1056
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffd83625356aa7f0800000000000000
+      internalID: -600556321351606276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_62
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1056
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dacbb69d75694360800000000000000
+      internalID: 7154361073128950488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_63
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1056
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e797c86b1d28000800000000000000
+      internalID: 36822328943410693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_64
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1056
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d14bd3b30220b0b0800000000000000
+      internalID: -5715030527835422253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_65
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1056
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada509c3a45a35090800000000000000
+      internalID: -8046906370918688038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee5e111e425d54c0800000000000000
+      internalID: -4297187974193455384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_67
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 528
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44d84e1b06ce19d0800000000000000
+      internalID: -2801584167122840500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_68
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 528
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a2b78cda261bf70800000000000000
+      internalID: 9201244012227013200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_69
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 528
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e4ef53a4754c780800000000000000
+      internalID: -8663703806908936633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_70
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 528
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57230dbef14df71c0800000000000000
+      internalID: -4503647868781841803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_71
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 528
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f087a4cc8c6b7f0800000000000000
+      internalID: -597069120831746283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10009ebf0b609dd20800000000000000
+      internalID: 3303679158863331329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_73
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 0
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97d313f6bfb3c3c0800000000000000
+      internalID: -4340414823371909217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserAttack_74
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 0
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218813c12ded9bd10800000000000000
+      internalID: 2141988091788888082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

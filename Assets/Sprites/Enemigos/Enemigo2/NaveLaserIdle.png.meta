@@ -1,0 +1,4072 @@
+fileFormatVersion: 2
+guid: 75317028358b5a04eafc0b67966c3a28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -151059810777378797
+    second: NaveLaserIdle_0
+  - first:
+      213: -5484667940743408811
+    second: NaveLaserIdle_1
+  - first:
+      213: 4870009406726793307
+    second: NaveLaserIdle_2
+  - first:
+      213: 5498848866845625878
+    second: NaveLaserIdle_3
+  - first:
+      213: -8398166022552287319
+    second: NaveLaserIdle_4
+  - first:
+      213: 5587306543911241957
+    second: NaveLaserIdle_5
+  - first:
+      213: -5022526303684820148
+    second: NaveLaserIdle_6
+  - first:
+      213: -3011073841712500062
+    second: NaveLaserIdle_7
+  - first:
+      213: 4334982261362840285
+    second: NaveLaserIdle_8
+  - first:
+      213: 3969534853701115050
+    second: NaveLaserIdle_9
+  - first:
+      213: -2059268733270708845
+    second: NaveLaserIdle_10
+  - first:
+      213: 3722056336738772403
+    second: NaveLaserIdle_11
+  - first:
+      213: -5895141012226751473
+    second: NaveLaserIdle_12
+  - first:
+      213: -6006470950998842403
+    second: NaveLaserIdle_13
+  - first:
+      213: -5152849583482799898
+    second: NaveLaserIdle_14
+  - first:
+      213: 5018327598687289338
+    second: NaveLaserIdle_15
+  - first:
+      213: 6613561736133054225
+    second: NaveLaserIdle_16
+  - first:
+      213: 4469269437273615608
+    second: NaveLaserIdle_17
+  - first:
+      213: -433675504189588201
+    second: NaveLaserIdle_18
+  - first:
+      213: 2623592551479705953
+    second: NaveLaserIdle_19
+  - first:
+      213: 1238696710690122604
+    second: NaveLaserIdle_20
+  - first:
+      213: -5264611805960324727
+    second: NaveLaserIdle_21
+  - first:
+      213: -5154583235569075492
+    second: NaveLaserIdle_22
+  - first:
+      213: -3367813134560007620
+    second: NaveLaserIdle_23
+  - first:
+      213: 6045586649873313592
+    second: NaveLaserIdle_24
+  - first:
+      213: 1772802489175951939
+    second: NaveLaserIdle_25
+  - first:
+      213: -2544336789147438471
+    second: NaveLaserIdle_26
+  - first:
+      213: -349104496165616431
+    second: NaveLaserIdle_27
+  - first:
+      213: -7159495781020853418
+    second: NaveLaserIdle_28
+  - first:
+      213: 5624286907898307699
+    second: NaveLaserIdle_29
+  - first:
+      213: -3819713841744691526
+    second: NaveLaserIdle_30
+  - first:
+      213: -2955118846829573907
+    second: NaveLaserIdle_31
+  - first:
+      213: -1287890286621022342
+    second: NaveLaserIdle_32
+  - first:
+      213: 6639388253700810495
+    second: NaveLaserIdle_33
+  - first:
+      213: 7701076173580149485
+    second: NaveLaserIdle_34
+  - first:
+      213: 2611543456271040000
+    second: NaveLaserIdle_35
+  - first:
+      213: 4937161430791432228
+    second: NaveLaserIdle_36
+  - first:
+      213: 7192431511752303479
+    second: NaveLaserIdle_37
+  - first:
+      213: 4567820596944356267
+    second: NaveLaserIdle_38
+  - first:
+      213: 3185693653231253982
+    second: NaveLaserIdle_39
+  - first:
+      213: 8461696576712368878
+    second: NaveLaserIdle_40
+  - first:
+      213: 531822452943492370
+    second: NaveLaserIdle_41
+  - first:
+      213: 2285754271996777412
+    second: NaveLaserIdle_42
+  - first:
+      213: 4646537342392417149
+    second: NaveLaserIdle_43
+  - first:
+      213: -7643053838660554935
+    second: NaveLaserIdle_44
+  - first:
+      213: -2048341679772307765
+    second: NaveLaserIdle_45
+  - first:
+      213: 5631278762417773041
+    second: NaveLaserIdle_46
+  - first:
+      213: 2948498711868669371
+    second: NaveLaserIdle_47
+  - first:
+      213: 3258336970810194012
+    second: NaveLaserIdle_48
+  - first:
+      213: 6339344741651740740
+    second: NaveLaserIdle_49
+  - first:
+      213: 3717931314320716114
+    second: NaveLaserIdle_50
+  - first:
+      213: 6680790250757459784
+    second: NaveLaserIdle_51
+  - first:
+      213: 1193151484417530696
+    second: NaveLaserIdle_52
+  - first:
+      213: 3117012649239956249
+    second: NaveLaserIdle_53
+  - first:
+      213: 2076444122208169353
+    second: NaveLaserIdle_0
+  - first:
+      213: -8518534248823516991
+    second: NaveLaserIdle_1
+  - first:
+      213: -5118686220893902608
+    second: NaveLaserIdle_2
+  - first:
+      213: -3053334721439634070
+    second: NaveLaserIdle_3
+  - first:
+      213: -6647765477037158324
+    second: NaveLaserIdle_4
+  - first:
+      213: 6816557548549900373
+    second: NaveLaserIdle_5
+  - first:
+      213: -4459380564752779088
+    second: NaveLaserIdle_6
+  - first:
+      213: -589058569303973674
+    second: NaveLaserIdle_7
+  - first:
+      213: 3733693293507357210
+    second: NaveLaserIdle_8
+  - first:
+      213: 3225603849823971019
+    second: NaveLaserIdle_9
+  - first:
+      213: -9111203274946714124
+    second: NaveLaserIdle_10
+  - first:
+      213: 8106280807658883527
+    second: NaveLaserIdle_11
+  - first:
+      213: 2255412727861145948
+    second: NaveLaserIdle_12
+  - first:
+      213: 2691578015249278559
+    second: NaveLaserIdle_13
+  - first:
+      213: -3010008836196335521
+    second: NaveLaserIdle_14
+  - first:
+      213: 6595208836105781849
+    second: NaveLaserIdle_15
+  - first:
+      213: 9069767509449502421
+    second: NaveLaserIdle_16
+  - first:
+      213: -7512239744635348845
+    second: NaveLaserIdle_17
+  - first:
+      213: 6715319463452653474
+    second: NaveLaserIdle_18
+  - first:
+      213: -5697119748842025327
+    second: NaveLaserIdle_19
+  - first:
+      213: -427672946054387193
+    second: NaveLaserIdle_20
+  - first:
+      213: -4921651353854237542
+    second: NaveLaserIdle_21
+  - first:
+      213: 5503798431370818150
+    second: NaveLaserIdle_22
+  - first:
+      213: 7546824608524255746
+    second: NaveLaserIdle_23
+  - first:
+      213: 2549085942917186740
+    second: NaveLaserIdle_24
+  - first:
+      213: -1057369030091884352
+    second: NaveLaserIdle_25
+  - first:
+      213: -7280049805923720605
+    second: NaveLaserIdle_26
+  - first:
+      213: 4366575261042247744
+    second: NaveLaserIdle_27
+  - first:
+      213: 514253408853607454
+    second: NaveLaserIdle_28
+  - first:
+      213: -4426180516525117030
+    second: NaveLaserIdle_29
+  - first:
+      213: -839592186291344175
+    second: NaveLaserIdle_30
+  - first:
+      213: -359373943452142767
+    second: NaveLaserIdle_31
+  - first:
+      213: 4633845075232647786
+    second: NaveLaserIdle_32
+  - first:
+      213: -2775642279085090458
+    second: NaveLaserIdle_33
+  - first:
+      213: -947320682103540502
+    second: NaveLaserIdle_34
+  - first:
+      213: -1997371391201422776
+    second: NaveLaserIdle_35
+  - first:
+      213: 4008407398138638318
+    second: NaveLaserIdle_36
+  - first:
+      213: 1540987860728404442
+    second: NaveLaserIdle_37
+  - first:
+      213: -7547826333288190883
+    second: NaveLaserIdle_38
+  - first:
+      213: 8661666238929834794
+    second: NaveLaserIdle_39
+  - first:
+      213: -4331285831542456450
+    second: NaveLaserIdle_40
+  - first:
+      213: -1299978927582728437
+    second: NaveLaserIdle_41
+  - first:
+      213: -8806048451427596762
+    second: NaveLaserIdle_42
+  - first:
+      213: 4991361998432461760
+    second: NaveLaserIdle_43
+  - first:
+      213: -5541675433160810660
+    second: NaveLaserIdle_44
+  - first:
+      213: -1961805490283066322
+    second: NaveLaserIdle_45
+  - first:
+      213: 1441959345710375614
+    second: NaveLaserIdle_46
+  - first:
+      213: -2497941622411844772
+    second: NaveLaserIdle_47
+  - first:
+      213: 6839533204633002758
+    second: NaveLaserIdle_48
+  - first:
+      213: 7569910601777800327
+    second: NaveLaserIdle_49
+  - first:
+      213: 7575681729558266538
+    second: NaveLaserIdle_50
+  - first:
+      213: -3375650043930125764
+    second: NaveLaserIdle_51
+  - first:
+      213: -6082280654214422172
+    second: NaveLaserIdle_52
+  - first:
+      213: 6636851717253731384
+    second: NaveLaserIdle_53
+  - first:
+      213: 6781357444916472694
+    second: NaveLaserIdle_54
+  - first:
+      213: 4704878007310982137
+    second: NaveLaserIdle_55
+  - first:
+      213: -1473200195200094465
+    second: NaveLaserIdle_56
+  - first:
+      213: 2805256666003285725
+    second: NaveLaserIdle_57
+  - first:
+      213: 7303686075931697773
+    second: NaveLaserIdle_58
+  - first:
+      213: 5393292538573963447
+    second: NaveLaserIdle_59
+  - first:
+      213: -2347806319678870635
+    second: NaveLaserIdle_60
+  - first:
+      213: 7188553260888604579
+    second: NaveLaserIdle_61
+  - first:
+      213: -7966824969345693659
+    second: NaveLaserIdle_62
+  - first:
+      213: 8898733876254466058
+    second: NaveLaserIdle_63
+  - first:
+      213: -79485687536858725
+    second: NaveLaserIdle_64
+  - first:
+      213: 1501415826497045777
+    second: NaveLaserIdle_65
+  - first:
+      213: -4919270912343654590
+    second: NaveLaserIdle_66
+  - first:
+      213: -8474520826490695657
+    second: NaveLaserIdle_67
+  - first:
+      213: 1774002598129891683
+    second: NaveLaserIdle_68
+  - first:
+      213: 8561325159185406970
+    second: NaveLaserIdle_69
+  - first:
+      213: -5794706422843143155
+    second: NaveLaserIdle_70
+  - first:
+      213: 1719550608405827474
+    second: NaveLaserIdle_71
+  - first:
+      213: -4337429385200284207
+    second: NaveLaserIdle_72
+  - first:
+      213: 2375523947018128432
+    second: NaveLaserIdle_73
+  - first:
+      213: 6516380695223307604
+    second: NaveLaserIdle_74
+  - first:
+      213: -5922293156491738704
+    second: NaveLaserIdle_75
+  - first:
+      213: -6924828130297195355
+    second: NaveLaserIdle_76
+  - first:
+      213: -5848982469344702566
+    second: NaveLaserIdle_77
+  - first:
+      213: 1775565548348788136
+    second: NaveLaserIdle_78
+  - first:
+      213: -3895259232298161607
+    second: NaveLaserIdle_79
+  - first:
+      213: 3584351959482294965
+    second: NaveLaserIdle_80
+  - first:
+      213: 5254046574000847924
+    second: NaveLaserIdle_81
+  - first:
+      213: -5771964379627568942
+    second: NaveLaserIdle_82
+  - first:
+      213: 4583360905123072677
+    second: NaveLaserIdle_83
+  - first:
+      213: -8229099064453977637
+    second: NaveLaserIdle_84
+  - first:
+      213: -6434400918663970778
+    second: NaveLaserIdle_85
+  - first:
+      213: 6284786959213144005
+    second: NaveLaserIdle_86
+  - first:
+      213: -5059749454053515865
+    second: NaveLaserIdle_87
+  - first:
+      213: -776078040552484828
+    second: NaveLaserIdle_88
+  - first:
+      213: 6038722980030873304
+    second: NaveLaserIdle_89
+  - first:
+      213: -5964787148832601053
+    second: NaveLaserIdle_90
+  - first:
+      213: -9188563348463399150
+    second: NaveLaserIdle_91
+  - first:
+      213: 1133203879980287717
+    second: NaveLaserIdle_92
+  - first:
+      213: -684440468403566905
+    second: NaveLaserIdle_93
+  - first:
+      213: -5351562328419957677
+    second: NaveLaserIdle_94
+  - first:
+      213: 5607732270491835118
+    second: NaveLaserIdle_95
+  - first:
+      213: 3953607147566445012
+    second: NaveLaserIdle_96
+  - first:
+      213: -2127239298237386216
+    second: NaveLaserIdle_97
+  - first:
+      213: -3269333089695892062
+    second: NaveLaserIdle_98
+  - first:
+      213: 5066012475715913687
+    second: NaveLaserIdle_99
+  - first:
+      213: 5454255145938738290
+    second: NaveLaserIdle_100
+  - first:
+      213: 2946465509772681728
+    second: NaveLaserIdle_101
+  - first:
+      213: 6194481293396811559
+    second: NaveLaserIdle_102
+  - first:
+      213: 6733891769740317909
+    second: NaveLaserIdle_103
+  - first:
+      213: -9069297212820070197
+    second: NaveLaserIdle_104
+  - first:
+      213: -6384055014383670745
+    second: NaveLaserIdle_105
+  - first:
+      213: -1267949483571563754
+    second: NaveLaserIdle_106
+  - first:
+      213: 1090355597727344395
+    second: NaveLaserIdle_107
+  - first:
+      213: -1572110055301937972
+    second: NaveLaserIdle_108
+  - first:
+      213: -144924808506874570
+    second: NaveLaserIdle_109
+  - first:
+      213: 4944011550201231918
+    second: NaveLaserIdle_110
+  - first:
+      213: 3004777888752723599
+    second: NaveLaserIdle_111
+  - first:
+      213: 2775285989676433173
+    second: NaveLaserIdle_112
+  - first:
+      213: -2795048571432630847
+    second: NaveLaserIdle_113
+  - first:
+      213: -7159544072954025329
+    second: NaveLaserIdle_114
+  - first:
+      213: -2909023544153027188
+    second: NaveLaserIdle_115
+  - first:
+      213: 5768780488760353592
+    second: NaveLaserIdle_116
+  - first:
+      213: -6482688816249408845
+    second: NaveLaserIdle_117
+  - first:
+      213: -8114310166412274333
+    second: NaveLaserIdle_118
+  - first:
+      213: -1624576386657457922
+    second: NaveLaserIdle_119
+  - first:
+      213: 5721207705839481744
+    second: NaveLaserIdle_120
+  - first:
+      213: 8973207988361549979
+    second: NaveLaserIdle_121
+  - first:
+      213: 6561410245494628238
+    second: NaveLaserIdle_122
+  - first:
+      213: -1063937249173572822
+    second: NaveLaserIdle_123
+  - first:
+      213: 8812357674245215058
+    second: NaveLaserIdle_124
+  - first:
+      213: 395080076483745723
+    second: NaveLaserIdle_125
+  - first:
+      213: 1094735715061110720
+    second: NaveLaserIdle_126
+  - first:
+      213: 8503213827925729187
+    second: NaveLaserIdle_127
+  - first:
+      213: -4128799476352434712
+    second: NaveLaserIdle_128
+  - first:
+      213: -7797982689594319372
+    second: NaveLaserIdle_129
+  - first:
+      213: -7577059509285950383
+    second: NaveLaserIdle_130
+  - first:
+      213: -4950283191698968652
+    second: NaveLaserIdle_131
+  - first:
+      213: -8780461682030982826
+    second: NaveLaserIdle_132
+  - first:
+      213: 7989014615464156345
+    second: NaveLaserIdle_133
+  - first:
+      213: -5055013293311241662
+    second: NaveLaserIdle_134
+  - first:
+      213: 806194683665813865
+    second: NaveLaserIdle_135
+  - first:
+      213: -7900727308580155397
+    second: NaveLaserIdle_136
+  - first:
+      213: -2136214108736200965
+    second: NaveLaserIdle_137
+  - first:
+      213: -5908828112234020836
+    second: NaveLaserIdle_138
+  - first:
+      213: -2571753751323463056
+    second: NaveLaserIdle_139
+  - first:
+      213: 6411364488362037679
+    second: NaveLaserIdle_140
+  - first:
+      213: -1220996767513407289
+    second: NaveLaserIdle_141
+  - first:
+      213: -1250248132735490696
+    second: NaveLaserIdle_142
+  - first:
+      213: 3638282075758731758
+    second: NaveLaserIdle_143
+  - first:
+      213: 7844487365593501184
+    second: NaveLaserIdle_144
+  - first:
+      213: -7011631144282755118
+    second: NaveLaserIdle_145
+  - first:
+      213: -6649291134735110069
+    second: NaveLaserIdle_146
+  - first:
+      213: 259638678055699241
+    second: NaveLaserIdle_147
+  - first:
+      213: -4149967750869873669
+    second: NaveLaserIdle_148
+  - first:
+      213: 9026282618332522186
+    second: NaveLaserIdle_149
+  - first:
+      213: 1546583099443878930
+    second: NaveLaserIdle_150
+  - first:
+      213: -6396102191459431310
+    second: NaveLaserIdle_151
+  - first:
+      213: -7554819500414065583
+    second: NaveLaserIdle_152
+  - first:
+      213: -626648998516697213
+    second: NaveLaserIdle_153
+  - first:
+      213: -618782739883203439
+    second: NaveLaserIdle_154
+  - first:
+      213: 1443331291608680030
+    second: NaveLaserIdle_155
+  - first:
+      213: 3862546994212274972
+    second: NaveLaserIdle_156
+  - first:
+      213: 7203600923025956805
+    second: NaveLaserIdle_157
+  - first:
+      213: 3664685359501456482
+    second: NaveLaserIdle_158
+  - first:
+      213: -2082100734643897172
+    second: NaveLaserIdle_159
+  - first:
+      213: 1028213981813700743
+    second: NaveLaserIdle_160
+  - first:
+      213: -8363347571894439279
+    second: NaveLaserIdle_161
+  - first:
+      213: 4108120056556248952
+    second: NaveLaserIdle_162
+  - first:
+      213: 9096320455890053238
+    second: NaveLaserIdle_163
+  - first:
+      213: 6266142481638373146
+    second: NaveLaserIdle_164
+  - first:
+      213: -7540016715325624480
+    second: NaveLaserIdle_165
+  - first:
+      213: 3454799504410396393
+    second: NaveLaserIdle_166
+  - first:
+      213: -8496747463141991145
+    second: NaveLaserIdle_167
+  - first:
+      213: -6429019851145966016
+    second: NaveLaserIdle_168
+  - first:
+      213: 1305699772180168798
+    second: NaveLaserIdle_169
+  - first:
+      213: 9170748957146144216
+    second: NaveLaserIdle_170
+  - first:
+      213: 9026400943058008822
+    second: NaveLaserIdle_171
+  - first:
+      213: 3428986119522352751
+    second: NaveLaserIdle_172
+  - first:
+      213: -1986228218492593517
+    second: NaveLaserIdle_173
+  - first:
+      213: 886903931069396941
+    second: NaveLaserIdle_174
+  - first:
+      213: -6440178147720105868
+    second: NaveLaserIdle_175
+  - first:
+      213: 1216555332968016064
+    second: NaveLaserIdle_176
+  - first:
+      213: 5880375784247541491
+    second: NaveLaserIdle_177
+  - first:
+      213: -7711420207265539911
+    second: NaveLaserIdle_178
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NaveLaserIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13200
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d6a2c7de201dc10800000000000000
+      internalID: 2076444122208169353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_1
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 13200
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c010ebdb3618c980800000000000000
+      internalID: -8518534248823516991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_2
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 13200
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8aee68006c6f8b0800000000000000
+      internalID: -5118686220893902608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_3
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 13200
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d69348f3060a5d0800000000000000
+      internalID: -3053334721439634070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_4
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 13200
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40581f15846eb3a0800000000000000
+      internalID: -6647765477037158324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_5
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 13200
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558035889f6499e50800000000000000
+      internalID: 6816557548549900373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12672
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b831afc0091d12c0800000000000000
+      internalID: -4459380564752779088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_7
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 12672
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0acb82a5e33d7f0800000000000000
+      internalID: -589058569303973674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_8
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 12672
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aa3cbb44eb0d330800000000000000
+      internalID: 3733693293507357210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_9
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 12672
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6e3e68c95a3cc20800000000000000
+      internalID: 3225603849823971019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_10
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 12672
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5ec6805e08e8180800000000000000
+      internalID: -9111203274946714124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_11
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 12672
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c90316127b4f7070800000000000000
+      internalID: 8106280807658883527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12144
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51fe022de5dc4f10800000000000000
+      internalID: 2255412727861145948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 12144
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f562f2cb1f76a5520800000000000000
+      internalID: 2691578015249278559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_14
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 12144
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f500bb349ec4a36d0800000000000000
+      internalID: -3010008836196335521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_15
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 12144
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9524a975e73e68b50800000000000000
+      internalID: 6595208836105781849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_16
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 12144
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5deed140f794edd70800000000000000
+      internalID: 9069767509449502421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_17
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 12144
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3985079f0c92fb790800000000000000
+      internalID: -7512239744635348845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11616
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7bc54097b913d50800000000000000
+      internalID: 6715319463452653474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_19
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 11616
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e8867e5c3cfe0b0800000000000000
+      internalID: -5697119748842025327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_20
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 11616
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a2262b8b9901af0800000000000000
+      internalID: -427672946054387193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_21
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 11616
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94a2317b28c2bbb0800000000000000
+      internalID: -4921651353854237542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_22
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 11616
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662b531538b616c40800000000000000
+      internalID: 5503798431370818150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_23
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 11616
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202c3452ff4bbb860800000000000000
+      internalID: 7546824608524255746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11088
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b44581d82c206320800000000000000
+      internalID: 2549085942917186740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_25
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 11088
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8bfd428787351f0800000000000000
+      internalID: -1057369030091884352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_26
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 11088
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362e3cad54118fa90800000000000000
+      internalID: -7280049805923720605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_27
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 11088
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0488e679011399c30800000000000000
+      internalID: 4366575261042247744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_28
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 11088
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14c04f20cef22700800000000000000
+      internalID: 514253408853607454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_29
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 11088
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91f3c8654c0392c0800000000000000
+      internalID: -4426180516525117030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10560
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc29ebda5b2954f0800000000000000
+      internalID: -839592186291344175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_31
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 10560
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153f00f6d4f330bf0800000000000000
+      internalID: -359373943452142767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_32
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 10560
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a6f657b89be4040800000000000000
+      internalID: 4633845075232647786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_33
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 10560
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669d39b9d00fa79d0800000000000000
+      internalID: -2775642279085090458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_34
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 10560
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae476d6dbd07ad2f0800000000000000
+      internalID: -947320682103540502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_35
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 10560
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84259ee5d49e744e0800000000000000
+      internalID: -1997371391201422776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10032
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefe9198a49b0a730800000000000000
+      internalID: 4008407398138638318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_37
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 10032
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9d7e97b40b26510800000000000000
+      internalID: 1540987860728404442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_38
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 10032
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ca402a0fbb04790800000000000000
+      internalID: -7547826333288190883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_39
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 10032
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2318668d8b643870800000000000000
+      internalID: 8661666238929834794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_40
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 10032
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fba3efb7e24e3c0800000000000000
+      internalID: -4331285831542456450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_41
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 10032
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f20fd8d0c85fde0800000000000000
+      internalID: -1299978927582728437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9504
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62687c10791aac580800000000000000
+      internalID: -8806048451427596762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_43
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 9504
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c363fdca41e44540800000000000000
+      internalID: 4991361998432461760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_44
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 9504
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fd0f9fd830813b0800000000000000
+      internalID: -5541675433160810660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_45
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 9504
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c4449fc4446c4e0800000000000000
+      internalID: -1961805490283066322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_46
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 9504
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb22f95926ed20410800000000000000
+      internalID: 1441959345710375614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_47
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 9504
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53aa7e3457855dd0800000000000000
+      internalID: -2497941622411844772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8976
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603a3a35637eaee50800000000000000
+      internalID: 6839533204633002758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_49
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 8976
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784ed60d599bd0960800000000000000
+      internalID: 7569910601777800327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_50
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 8976
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2ccb5356a322960800000000000000
+      internalID: 7575681729558266538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_51
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 8976
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a53858b284721d0800000000000000
+      internalID: -3375650043930125764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_52
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 8976
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461a15568f5679ba0800000000000000
+      internalID: -6082280654214422172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_53
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 8976
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83499d92975da1c50800000000000000
+      internalID: 6636851717253731384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8448
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b623fbaa83c1e50800000000000000
+      internalID: 6781357444916472694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_55
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 8448
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb9151ce951b4140800000000000000
+      internalID: 4704878007310982137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_56
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 8448
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeef025a342e8be0800000000000000
+      internalID: -1473200195200094465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_57
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 8448
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd62ce823164ee620800000000000000
+      internalID: 2805256666003285725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_58
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 8448
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6220ea1ac7eb5560800000000000000
+      internalID: 7303686075931697773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_59
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 8448
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0477b2df2d8da40800000000000000
+      internalID: 5393292538573963447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7920
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59baf1a679aea6fd0800000000000000
+      internalID: -2347806319678870635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_61
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 7920
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afbd3caa1fd2c360800000000000000
+      internalID: 7188553260888604579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_62
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 7920
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528007286e6207190800000000000000
+      internalID: -7966824969345693659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_63
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 7920
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00e1ec1057ae7b70800000000000000
+      internalID: 8898733876254466058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_64
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 7920
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9943a5303c95eef0800000000000000
+      internalID: -79485687536858725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_65
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 7920
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11581864db916d410800000000000000
+      internalID: 1501415826497045777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7392
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f38db2b2d3bbbb0800000000000000
+      internalID: -4919270912343654590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_67
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 7392
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7105f5f4534746a80800000000000000
+      internalID: -8474520826490695657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_68
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 7392
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369f624c6f58e9810800000000000000
+      internalID: 1774002598129891683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_69
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 7392
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb5cd75fdfefc670800000000000000
+      internalID: 8561325159185406970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_70
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 7392
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c82c8c531159fa0800000000000000
+      internalID: -5794706422843143155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_71
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 7392
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f0653fa221dd710800000000000000
+      internalID: 1719550608405827474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6864
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddcbc074fa5ec3c0800000000000000
+      internalID: -4337429385200284207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_73
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 6864
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c0379917e87f020800000000000000
+      internalID: 2375523947018128432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_74
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 6864
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d8fff87b5de6a50800000000000000
+      internalID: 6516380695223307604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_75
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 6864
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1459770c9cfcda0800000000000000
+      internalID: -5922293156491738704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_76
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 6864
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4d00b318116ef90800000000000000
+      internalID: -6924828130297195355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_77
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 6864
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fc831fe6d34dea0800000000000000
+      internalID: -5848982469344702566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6336
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad40c8757314a810800000000000000
+      internalID: 1775565548348788136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_79
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 6336
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aaecebd5241f9c0800000000000000
+      internalID: -3895259232298161607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_80
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 6336
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2eaeecd1d2eb130800000000000000
+      internalID: 3584351959482294965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_81
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 6336
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cbdac958f1ae840800000000000000
+      internalID: 5254046574000847924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_82
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 6336
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d047185afcd5efa0800000000000000
+      internalID: -5771964379627568942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_83
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 6336
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa0643a57e5b9f30800000000000000
+      internalID: 4583360905123072677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5808
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9a8b1200e5ccd80800000000000000
+      internalID: -8229099064453977637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_85
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 5808
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6204694947a64b6a0800000000000000
+      internalID: -6434400918663970778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_86
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 5808
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c728e0f07c083750800000000000000
+      internalID: 6284786959213144005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_87
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 5808
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7add9a2eda828c9b0800000000000000
+      internalID: -5059749454053515865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_88
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 5808
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42053ea4221da35f0800000000000000
+      internalID: -776078040552484828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_89
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 5808
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de7ab94e8addc350800000000000000
+      internalID: 6038722980030873304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5280
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c8401e0b1d83da0800000000000000
+      internalID: -5964787148832601053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_91
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 5280
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f4aa2515aab7080800000000000000
+      internalID: -9188563348463399150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_92
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 5280
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6c154cce2f9bf00800000000000000
+      internalID: 1133203879980287717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_93
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 5280
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c647e235016086f0800000000000000
+      internalID: -684440468403566905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_94
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 5280
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3548a258a6e6bb5b0800000000000000
+      internalID: -5351562328419957677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_95
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 5280
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea192af9caa2dd40800000000000000
+      internalID: 5607732270491835118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4752
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1b42ce0c80ed630800000000000000
+      internalID: 3953607147566445012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_97
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 4752
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8123f4cf0278a72e0800000000000000
+      internalID: -2127239298237386216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_98
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 4752
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adfe3860eef0a2d0800000000000000
+      internalID: -3269333089695892062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_99
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 4752
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d78eba71871e4640800000000000000
+      internalID: 5066012475715913687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_100
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 4752
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c5608482861bb40800000000000000
+      internalID: 5454255145938738290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_101
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 4752
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002e0f425c2f3e820800000000000000
+      internalID: 2946465509772681728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4224
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f18b4aae737f550800000000000000
+      internalID: 6194481293396811559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_103
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 4224
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d45c4b03e6937d50800000000000000
+      internalID: 6733891769740317909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_104
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 4224
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc06b637c32632280800000000000000
+      internalID: -9069297212820070197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_105
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 4224
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a2c11e9c74767a0800000000000000
+      internalID: -6384055014383670745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_106
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 4224
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613b39e99a6576ee0800000000000000
+      internalID: -1267949483571563754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_107
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 4224
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07a561a3a8b12f00800000000000000
+      internalID: 1090355597727344395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3696
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc488edeb3ebe2ae0800000000000000
+      internalID: -1572110055301937972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_109
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3696
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6356ecd87af1dfdf0800000000000000
+      internalID: -144924808506874570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_110
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 3696
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a3c277f48ac9440800000000000000
+      internalID: 4944011550201231918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_111
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 3696
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86ed00e19d13b920800000000000000
+      internalID: 3004777888752723599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_112
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 3696
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f38cc47ebc38620800000000000000
+      internalID: 2775285989676433173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_113
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 3696
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c58bc1122ef539d0800000000000000
+      internalID: -2795048571432630847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a62d9399034ac90800000000000000
+      internalID: -7159544072954025329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_115
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3168
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dc28fcf7211a7d0800000000000000
+      internalID: -2909023544153027188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_116
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 3168
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833e3cb4a43de0050800000000000000
+      internalID: 5768780488760353592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_117
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 3168
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b27e0e4edcd806a0800000000000000
+      internalID: -6482688816249408845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_118
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 3168
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365d7a525ed246f80800000000000000
+      internalID: -8114310166412274333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_119
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 3168
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef86bca32685479e0800000000000000
+      internalID: -1624576386657457922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2640
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0933ac0a810d56f40800000000000000
+      internalID: 5721207705839481744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_121
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2640
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98dcf19f1d378c70800000000000000
+      internalID: 8973207988361549979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_122
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2640
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fd05cbadfce0b50800000000000000
+      internalID: 6561410245494628238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_123
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2640
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23f3b775b22c31f0800000000000000
+      internalID: -1063937249173572822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_124
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 2640
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253d2176d98cb4a70800000000000000
+      internalID: 8812357674245215058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_125
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 2640
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7d5a08c3b9b7500800000000000000
+      internalID: 395080076483745723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7962b2558413f00800000000000000
+      internalID: 1094735715061110720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_127
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2112
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afd3beaceb710670800000000000000
+      internalID: 8503213827925729187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_128
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2112
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edb13760ce83b6c0800000000000000
+      internalID: -4128799476352434712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_129
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2112
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdd51e2f0008c390800000000000000
+      internalID: -7797982689594319372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_130
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 2112
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ce3037580e8d690800000000000000
+      internalID: -7577059509285950383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_131
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 2112
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf22353aaf0d4bb0800000000000000
+      internalID: -4950283191698968652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6594d9efe98852680800000000000000
+      internalID: -8780461682030982826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_133
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1584
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc1524177eaede60800000000000000
+      internalID: 7989014615464156345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_134
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1584
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2425e4d313cf8d9b0800000000000000
+      internalID: -5055013293311241662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_135
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1584
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96195bb1bcd203b00800000000000000
+      internalID: 806194683665813865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_136
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1584
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff0ad86f5afa5290800000000000000
+      internalID: -7900727308580155397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_137
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1584
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfed9941694aa52e0800000000000000
+      internalID: -2136214108736200965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1003736320affda0800000000000000
+      internalID: -5908828112234020836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_139
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1056
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0723692c69b4f4cd0800000000000000
+      internalID: -2571753751323463056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_140
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1056
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa19f56880eb9f850800000000000000
+      internalID: 6411364488362037679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_141
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1056
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c09678b8e52e0fe0800000000000000
+      internalID: -1220996767513407289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_142
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1056
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875a43782f936aee0800000000000000
+      internalID: -1250248132735490696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_143
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1056
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1254e7546cd7230800000000000000
+      internalID: 3638282075758731758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e8d3772b73ddc60800000000000000
+      internalID: 7844487365593501184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_145
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 528
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfe5fc9f9ea1be90800000000000000
+      internalID: -7011631144282755118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_146
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 528
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40b5f141f8f8b3a0800000000000000
+      internalID: -6649291134735110069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_147
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 528
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9234677800c6a9300800000000000000
+      internalID: 259638678055699241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_148
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 528
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb031c615a5866c0800000000000000
+      internalID: -4149967750869873669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_149
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 528
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac62ef3d73cc34d70800000000000000
+      internalID: 9026282618332522186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c99f18221967510800000000000000
+      internalID: 1546583099443878930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_151
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 0
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c86f2e1fa7c37a0800000000000000
+      internalID: -6396102191459431310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_152
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 0
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15420a701b3e72790800000000000000
+      internalID: -7554819500414065583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_153
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 0
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387de845e02bd47f0800000000000000
+      internalID: -626648998516697213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaveLaserIdle_154
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 0
+        width: 436
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1946e146064a967f0800000000000000
+      internalID: -618782739883203439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

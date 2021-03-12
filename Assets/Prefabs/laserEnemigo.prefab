@@ -197,7 +197,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemigo: 1
-  speed: 7
+  speed: 10
 --- !u!50 &378690944135524175
 Rigidbody2D:
   serializedVersion: 4

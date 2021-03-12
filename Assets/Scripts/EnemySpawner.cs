@@ -8,7 +8,7 @@ public class EnemySpawner : MonoBehaviour
     [SerializeField] GameObject enemy1;
     [SerializeField] GameObject enemy2;
     [SerializeField] GameObject enemy3;
-    private float globalDelay = 16;
+    private float globalDelay = 8;
     private int spawnCounter = 0;
     void Start()
     {
@@ -35,7 +35,16 @@ public class EnemySpawner : MonoBehaviour
         spawnCounter++;
         foreach (Transform child in transform)
         {
-            Instantiate(enemy1, child.position, child.rotation);
-        }
+            int rand = Random.Range(1, 3);
+            print(rand);
+            switch (rand) {
+                case 1:
+                    Instantiate(enemy1, child.position, child.rotation);
+                break;
+                case 2:
+                    Instantiate(enemy2, child.position, child.rotation);
+                    break;
+            }
+    }
     }
 }

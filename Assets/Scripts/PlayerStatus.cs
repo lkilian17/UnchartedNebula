@@ -29,6 +29,8 @@ public class PlayerStatus : MonoBehaviour
 
     private void DestruirPlayer()
     {
+        gameObject.GetComponent<PlayerWeapon>().enabled = false;
+        gameObject.GetComponent<SpriteRenderer>().enabled = false;
         //TODO muerte player
     }
 }

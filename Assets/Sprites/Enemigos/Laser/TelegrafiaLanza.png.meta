@@ -1,0 +1,1558 @@
+fileFormatVersion: 2
+guid: e0c9049f2a7271f4982559007222f10f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2930674902123474830
+    second: TelegrafiaLanza_0
+  - first:
+      213: 1522764366146947339
+    second: TelegrafiaLanza_1
+  - first:
+      213: -5135479533664563207
+    second: TelegrafiaLanza_2
+  - first:
+      213: -683207530469046653
+    second: TelegrafiaLanza_3
+  - first:
+      213: -5954477768650667895
+    second: TelegrafiaLanza_4
+  - first:
+      213: -1993560814800801493
+    second: TelegrafiaLanza_5
+  - first:
+      213: -4251571466742068953
+    second: TelegrafiaLanza_6
+  - first:
+      213: 1684726150272674282
+    second: TelegrafiaLanza_7
+  - first:
+      213: 7587037982370635253
+    second: TelegrafiaLanza_8
+  - first:
+      213: -2406059857423915858
+    second: TelegrafiaLanza_9
+  - first:
+      213: -4464085720565057011
+    second: TelegrafiaLanza_10
+  - first:
+      213: 2872758312513010660
+    second: TelegrafiaLanza_11
+  - first:
+      213: -5309795403406963764
+    second: TelegrafiaLanza_12
+  - first:
+      213: 7922959307632199599
+    second: TelegrafiaLanza_13
+  - first:
+      213: 1397135559652378956
+    second: TelegrafiaLanza_14
+  - first:
+      213: 2671303237062652245
+    second: TelegrafiaLanza_15
+  - first:
+      213: -6887976683764365119
+    second: TelegrafiaLanza_16
+  - first:
+      213: 7246966700875210673
+    second: TelegrafiaLanza_17
+  - first:
+      213: -4543356025772313671
+    second: TelegrafiaLanza_18
+  - first:
+      213: -3472740110468092810
+    second: TelegrafiaLanza_19
+  - first:
+      213: 4119961986050166734
+    second: TelegrafiaLanza_20
+  - first:
+      213: -2856191943676639520
+    second: TelegrafiaLanza_21
+  - first:
+      213: 7503925337781491573
+    second: TelegrafiaLanza_22
+  - first:
+      213: -2157030330198856082
+    second: TelegrafiaLanza_23
+  - first:
+      213: 7509030157278165988
+    second: TelegrafiaLanza_24
+  - first:
+      213: -1314234484917223329
+    second: TelegrafiaLanza_25
+  - first:
+      213: -6444085642479774385
+    second: TelegrafiaLanza_26
+  - first:
+      213: 8675257404421351511
+    second: TelegrafiaLanza_27
+  - first:
+      213: -2883818968190679440
+    second: TelegrafiaLanza_28
+  - first:
+      213: -2419893991811006351
+    second: TelegrafiaLanza_29
+  - first:
+      213: -8507036696831077948
+    second: TelegrafiaLanza_30
+  - first:
+      213: -1725887652902176954
+    second: TelegrafiaLanza_31
+  - first:
+      213: -5282493893801061557
+    second: TelegrafiaLanza_32
+  - first:
+      213: -3634777502031123301
+    second: TelegrafiaLanza_33
+  - first:
+      213: 1680919873940178246
+    second: TelegrafiaLanza_34
+  - first:
+      213: -4641193091048360981
+    second: TelegrafiaLanza_35
+  - first:
+      213: -8865071445801687357
+    second: TelegrafiaLanza_36
+  - first:
+      213: -4799266016910222619
+    second: TelegrafiaLanza_37
+  - first:
+      213: -7146452436263340601
+    second: TelegrafiaLanza_38
+  - first:
+      213: 5238562073877660389
+    second: TelegrafiaLanza_39
+  - first:
+      213: -1068465988330272146
+    second: TelegrafiaLanza_40
+  - first:
+      213: -3846158573642378479
+    second: TelegrafiaLanza_41
+  - first:
+      213: 2175743460336001744
+    second: TelegrafiaLanza_42
+  - first:
+      213: 5424504080044476238
+    second: TelegrafiaLanza_43
+  - first:
+      213: 71816815297260570
+    second: TelegrafiaLanza_44
+  - first:
+      213: 25181590608460736
+    second: TelegrafiaLanza_45
+  - first:
+      213: -6165672036915641614
+    second: TelegrafiaLanza_46
+  - first:
+      213: -1764751292476674944
+    second: TelegrafiaLanza_47
+  - first:
+      213: -5919023909759367801
+    second: TelegrafiaLanza_48
+  - first:
+      213: -6436688848029004109
+    second: TelegrafiaLanza_49
+  - first:
+      213: -907413306054780553
+    second: TelegrafiaLanza_50
+  - first:
+      213: -9050046211983307705
+    second: TelegrafiaLanza_51
+  - first:
+      213: -8834849200883593420
+    second: TelegrafiaLanza_52
+  - first:
+      213: 8075956557577166781
+    second: TelegrafiaLanza_53
+  - first:
+      213: 4398365178808687620
+    second: TelegrafiaLanza_54
+  - first:
+      213: 4775675122617478837
+    second: TelegrafiaLanza_55
+  - first:
+      213: 3874945961053496454
+    second: TelegrafiaLanza_56
+  - first:
+      213: -5518348054460079652
+    second: TelegrafiaLanza_57
+  - first:
+      213: 762897553315782140
+    second: TelegrafiaLanza_58
+  - first:
+      213: -2007978494048220650
+    second: TelegrafiaLanza_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TelegrafiaLanza_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6300
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fe83dcb49dba820800000000000000
+      internalID: 2930674902123474830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 6300
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09cfc08f12f12510800000000000000
+      internalID: 1522764366146947339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_2
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 6300
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff82a4b29c1bb8b0800000000000000
+      internalID: -5135479533664563207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_3
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 6300
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386458eee52c486f0800000000000000
+      internalID: -683207530469046653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_4
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 6300
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988cd9084027d5da0800000000000000
+      internalID: -5954477768650667895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_5
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 6300
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21f8a350037554e0800000000000000
+      internalID: -1993560814800801493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_6
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 6300
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72907abd6426ff4c0800000000000000
+      internalID: -4251571466742068953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_7
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 6300
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae960d2f189516710800000000000000
+      internalID: 1684726150272674282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_8
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 6300
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd199cd8d29a4960800000000000000
+      internalID: 7587037982370635253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_9
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 6300
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4abe9be45fb9ed0800000000000000
+      internalID: -2406059857423915858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_10
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 6300
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a73da50b16c02c0800000000000000
+      internalID: -4464085720565057011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_11
+      rect:
+        serializedVersion: 2
+        x: 7700
+        y: 6300
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb73e6f6761ed720800000000000000
+      internalID: 2872758312513010660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_12
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 6300
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb0ded8631df46b0800000000000000
+      internalID: -5309795403406963764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_13
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 6300
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7ca4d338104fd60800000000000000
+      internalID: 7922959307632199599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_14
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 6300
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c498520a36f936310800000000000000
+      internalID: 1397135559652378956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55178741420621520800000000000000
+      internalID: 2671303237062652245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_16
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 4200
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c84d0f33bdf860a0800000000000000
+      internalID: -6887976683764365119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_17
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4200
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf50c081d5629460800000000000000
+      internalID: 7246966700875210673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_18
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 4200
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3f5bb24c1c2f0c0800000000000000
+      internalID: -4543356025772313671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_19
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 4200
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c6c46d4495ecfc0800000000000000
+      internalID: -3472740110468092810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_20
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4200
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf02aa099b0d2930800000000000000
+      internalID: 4119961986050166734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_21
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 4200
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e642da5f84cc58d0800000000000000
+      internalID: -2856191943676639520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_22
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 4200
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577d483565c432860800000000000000
+      internalID: 7503925337781491573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_23
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 4200
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ee0c6d750b012e0800000000000000
+      internalID: -2157030330198856082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_24
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 4200
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebb24cb42f653860800000000000000
+      internalID: 7509030157278165988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_25
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 4200
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50c0f6f2b6e2cde0800000000000000
+      internalID: -1314234484917223329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_26
+      rect:
+        serializedVersion: 2
+        x: 7700
+        y: 4200
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f455cc910420296a0800000000000000
+      internalID: -6444085642479774385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_27
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 4200
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758ac9555a4b46870800000000000000
+      internalID: 8675257404421351511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_28
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 4200
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07606747ded9af7d0800000000000000
+      internalID: -2883818968190679440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_29
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 4200
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170c0005c3fca6ed0800000000000000
+      internalID: -2419893991811006351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1db2a423fe0f980800000000000000
+      internalID: -8507036696831077948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_31
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2100
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6477886e25a6c08e0800000000000000
+      internalID: -1725887652902176954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_32
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2100
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4351db9acfc0b6b0800000000000000
+      internalID: -5282493893801061557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_33
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2100
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c6ad9ae1dae8dc0800000000000000
+      internalID: -3634777502031123301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_34
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2100
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645491e28b3d35710800000000000000
+      internalID: 1680919873940178246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_35
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2100
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3b01a497b279fb0800000000000000
+      internalID: -4641193091048360981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_36
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2100
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6288c3d70f8f480800000000000000
+      internalID: -8865071445801687357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_37
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 2100
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea56773cf4956db0800000000000000
+      internalID: -4799266016910222619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_38
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2100
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c57c4c6f53b2dc90800000000000000
+      internalID: -7146452436263340601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_39
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 2100
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2cf4b737c13b840800000000000000
+      internalID: 5238562073877660389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_40
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 2100
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6accf638db0c21f0800000000000000
+      internalID: -1068465988330272146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_41
+      rect:
+        serializedVersion: 2
+        x: 7700
+        y: 2100
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1131934b723bf9ac0800000000000000
+      internalID: -3846158573642378479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_42
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 2100
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2e4bb462bc13e10800000000000000
+      internalID: 2175743460336001744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_43
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 2100
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4745b578b5b74b40800000000000000
+      internalID: 5424504080044476238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_44
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 2100
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c61b453052ff000800000000000000
+      internalID: 71816815297260570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbb813f586795000800000000000000
+      internalID: 25181590608460736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_46
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2851613f12f6aa0800000000000000
+      internalID: -6165672036915641614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_47
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c240fac085287e0800000000000000
+      internalID: -1764751292476674944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_48
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785cfb94d176bdda0800000000000000
+      internalID: -5919023909759367801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_49
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be438388994ca6a0800000000000000
+      internalID: -6436688848029004109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_50
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7795424e7683863f0800000000000000
+      internalID: -907413306054780553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_51
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c8ddd5be6c76280800000000000000
+      internalID: -9050046211983307705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_52
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 0
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f8039f57f446580800000000000000
+      internalID: -8834849200883593420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_53
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf9fdb63bf831070800000000000000
+      internalID: 8075956557577166781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_54
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 0
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cd65b93d12a0d30800000000000000
+      internalID: 4398365178808687620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_55
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 0
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bee84ea83b964240800000000000000
+      internalID: 4775675122617478837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_56
+      rect:
+        serializedVersion: 2
+        x: 7700
+        y: 0
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684ad6c32d296c530800000000000000
+      internalID: 3874945961053496454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_57
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 0
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd160f29ea3ea63b0800000000000000
+      internalID: -5518348054460079652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_58
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 0
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdd661684b569a00800000000000000
+      internalID: 762897553315782140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelegrafiaLanza_59
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 0
+        width: 700
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ac1a9c23a3224e0800000000000000
+      internalID: -2007978494048220650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

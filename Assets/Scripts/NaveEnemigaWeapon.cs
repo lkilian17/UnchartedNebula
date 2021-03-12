@@ -7,6 +7,7 @@ public class NaveEnemigaWeapon : MonoBehaviour
     [SerializeField] Transform[] cannons;
     [SerializeField] GameObject proyectil;
     [SerializeField] int doubleShot = 0;
+    private bool ataqueActivado = false;
     private int shotCount = 0;
     public float shotCD = 1.5f;
     private bool extraShot = false;
@@ -20,34 +21,39 @@ public class NaveEnemigaWeapon : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Time.time >= timer)
-        {
-            shootTime = true;
-            timer = Time.time + shotCD;
+        if (ataqueActivado) { 
+            if (Time.time >= timer)
+            {
+                shootTime = true;
+                timer = Time.time + shotCD;
+            }
+
+            if (shootTime)
+            {
+                foreach (Transform c in cannons){ 
+                Instantiate(proyectil, c.position, c.rotation);
+                }
+                if (!extraShot) { 
+                    shotCount++;
+                }
+                else
+                {
+                    extraShot = false;
+                }
+
+                if (shotCount == doubleShot)
+                {
+                    shotCount = 0;
+                    timer -= shotCD / 1.4f;
+                    extraShot = true;
+                }
+                shootTime = false;
+            }
         }
 
-        if (shootTime)
-        {
-            foreach (Transform c in cannons){ 
-            Instantiate(proyectil, c.position, c.rotation);
-            }
-            if (!extraShot) { 
-                shotCount++;
-            }
-            else
-            {
-                extraShot = false;
-            }
-
-            if (shotCount == doubleShot)
-            {
-                shotCount = 0;
-                timer -= shotCD / 1.4f;
-                extraShot = true;
-            }
-            shootTime = false;
-        }
-
-
+    }
+    public void ActivarAtaque()
+    {
+        ataqueActivado = true;
     }
 }

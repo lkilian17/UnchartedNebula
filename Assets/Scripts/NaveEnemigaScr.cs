@@ -71,8 +71,8 @@ public class NaveEnemigaScr : MonoBehaviour
                 moviment.y = 0f;
                 break;
             case 3:
-                moviment.x = velX;
-                moviment.y = velY;
+                moviment.x = velX*1.3f;
+                moviment.y = 0;
                 break;
             case 4:
                 float amplitud = 4, frequencia = 3;
