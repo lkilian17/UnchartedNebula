@@ -5,6 +5,8 @@ using UnityEngine;
 public class NaveEnemigaScr : MonoBehaviour
 {
     Rigidbody2D rb;
+    [SerializeField] GameObject pickUpAmmo;
+    [SerializeField] GameObject pickUpVida;
     public int vidaInicial = 4;
     public int vidaActual;
     Vector2 moviment = new Vector2();
@@ -53,6 +55,20 @@ public class NaveEnemigaScr : MonoBehaviour
 
     private void DestruirEnemigo()
     {
+        int rand = Random.Range(1, 8);
+        if (rand == 7)
+        {
+            Instantiate(pickUpAmmo, transform.position, transform.rotation);
+            print(rand);
+        }
+        else { 
+                int rand2 = Random.Range(1, 7);
+                if (rand2 == 4)
+                {
+                    Instantiate(pickUpVida, transform.position, transform.rotation);
+                }
+            print(rand2+"**");
+            }
         Destroy(gameObject);
     }
 
@@ -67,7 +83,7 @@ public class NaveEnemigaScr : MonoBehaviour
                 moviment.y = 0f;
                 break;
             case 2:
-                moviment.x = velX / 2;
+                moviment.x = velX *2f;
                 moviment.y = 0f;
                 break;
             case 3:

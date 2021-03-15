@@ -8,6 +8,9 @@ public class PlayerWeapon : MonoBehaviour
     [SerializeField] GameObject cannon2;
     [SerializeField] GameObject laser;
     [SerializeField] GameObject[] laseresExtra;
+    private bool cannonsOff = false;
+    private float time = 0;
+    private float nextTime = 0;
     // Start is called before the first frame update
     void Start()
     {
@@ -28,6 +31,34 @@ public class PlayerWeapon : MonoBehaviour
                     Instantiate(laser, g.transform.GetChild(0).transform.position, g.transform.GetChild(0).transform.rotation);
                 }
             }
+        }
+
+        time = time += Time.deltaTime;
+        if (time >= nextTime)
+        {
+            if (cannonsOff)
+            {
+                DesactivarCañones();
+            }
+        }
+    }
+
+    public void ActivarCañones()
+    {
+        foreach (GameObject g in laseresExtra)
+        {
+            g.GetComponent<LaserExtra>().activo = true;
+            nextTime = Time.time + 15f;
+            cannonsOff = true;
+        }
+    }
+
+    private void DesactivarCañones()
+    {
+        foreach (GameObject g in laseresExtra)
+        {
+            g.GetComponent<LaserExtra>().activo = false;
+            cannonsOff = false;
         }
     }
 }

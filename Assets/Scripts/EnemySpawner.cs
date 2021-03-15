@@ -36,7 +36,6 @@ public class EnemySpawner : MonoBehaviour
         foreach (Transform child in transform)
         {
             int rand = Random.Range(1, 3);
-            print(rand);
             switch (rand) {
                 case 1:
                     Instantiate(enemy1, child.position, child.rotation);

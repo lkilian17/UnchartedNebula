@@ -26,8 +26,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1421535789344089494}
   m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -0.03, y: 0.02, z: -0.59}
-  m_LocalScale: {x: 2.4942245, y: 2.4942245, z: 2.4942245}
+  m_LocalPosition: {x: 0.88, y: -0.09, z: -0.59}
+  m_LocalScale: {x: 4.5724125, y: 4.5724125, z: 4.5724125}
   m_Children: []
   m_Father: {fileID: 5687408818179754801}
   m_RootOrder: 1
@@ -222,7 +222,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.9559822, g: 0, b: 1, a: 1}
+      maxColor: {r: 0.079197526, g: 1, b: 0, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -4823,10 +4823,10 @@ GameObject:
   - component: {fileID: 5687408818179754801}
   - component: {fileID: 5687408818179754806}
   - component: {fileID: -6416863087223256661}
-  - component: {fileID: 1846725805606677702}
   - component: {fileID: -7451579910157078625}
+  - component: {fileID: 2241114466396791253}
   m_Layer: 0
-  m_Name: PickupBalas
+  m_Name: PickupVida
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4841,7 +4841,7 @@ Transform:
   m_GameObject: {fileID: 5687408818179754807}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -4.885, y: -0.011, z: 0}
-  m_LocalScale: {x: 0.4009262, y: 0.4009262, z: 0.4009262}
+  m_LocalScale: {x: 0.22365347, y: 0.22365347, z: 0.22365347}
   m_Children:
   - {fileID: 8199983280080696656}
   - {fileID: 6248702203677967490}
@@ -4888,7 +4888,7 @@ SpriteRenderer:
   m_SortingLayerID: -638065069
   m_SortingLayer: 4
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: ab750b3e5886c8647ade236badb82fff, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 09a7ab8bda306b54f92db5316a806ebd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4920,18 +4920,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &1846725805606677702
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5687408818179754807}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9f3923211d014b64fba9682e981dcd10, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!58 &-7451579910157078625
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -4945,9 +4933,21 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.40979803, y: 0.08393432}
   serializedVersion: 2
-  m_Radius: 1.505
+  m_Radius: 2.413468
+--- !u!114 &2241114466396791253
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5687408818179754807}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84d2340017f407046a58a08a90e384e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &8538281330683877794
 GameObject:
   m_ObjectHideFlags: 0
@@ -4994,7 +4994,7 @@ MonoBehaviour:
   m_LightType: 3
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 1
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.21226418, b: 0.21226418, a: 1}
   m_Intensity: 0.67
   m_LightVolumeOpacity: 0
   m_ApplyToSortingLayers: 53e6f7d9

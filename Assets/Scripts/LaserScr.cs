@@ -30,6 +30,11 @@ public class LaserScr : MonoBehaviour
                 collision.GetComponent<NaveEnemigaScr>().TakeDamage(1);
                 Destroy(gameObject);
             }
+
+            if (collision.CompareTag("ProyectilPlayer"))
+            {
+                Destroy(gameObject);
+            }
         }
         else
         {
@@ -38,6 +43,7 @@ public class LaserScr : MonoBehaviour
                 collision.GetComponent<PlayerStatus>().TakeDamage(1);
                 Destroy(gameObject);
             }
+
         }   
     }
 }
