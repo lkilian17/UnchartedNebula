@@ -19,6 +19,7 @@ public class NaveEnemigaScr : MonoBehaviour
     float velY;
     const int QUANTS_MOVIMENTS = 5;
     [SerializeField] bool abandonaPelea = true;
+    private bool destroyed = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -60,8 +61,7 @@ public class NaveEnemigaScr : MonoBehaviour
         {
             Instantiate(pickUpAmmo, transform.position, transform.rotation);
             print(rand);
-        }
-        else { 
+        }else { 
                 int rand2 = Random.Range(1, 7);
                 if (rand2 == 4)
                 {
@@ -140,7 +140,8 @@ public class NaveEnemigaScr : MonoBehaviour
     public void TakeDamage(int dmg)
     {
         vidaActual -= dmg;
-        if (vidaActual <= 0){
+        if (vidaActual <= 0 && !destroyed){
+            destroyed = true;
             DestruirEnemigo();
         }
     }

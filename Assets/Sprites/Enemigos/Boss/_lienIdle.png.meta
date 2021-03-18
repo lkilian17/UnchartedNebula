@@ -1,0 +1,1510 @@
+fileFormatVersion: 2
+guid: 2d3e84c87823d0440b0ed0a8034d7db9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 953009078514165675
+    second: _lienIdle_0
+  - first:
+      213: -4234847186272057127
+    second: _lienIdle_1
+  - first:
+      213: 7831386371708915229
+    second: _lienIdle_2
+  - first:
+      213: -4017705444797533732
+    second: _lienIdle_3
+  - first:
+      213: 6823339476604506268
+    second: _lienIdle_4
+  - first:
+      213: 942900237319596203
+    second: _lienIdle_5
+  - first:
+      213: -4705774257690560619
+    second: _lienIdle_6
+  - first:
+      213: -8913483081506521323
+    second: _lienIdle_7
+  - first:
+      213: 4271694562855304514
+    second: _lienIdle_8
+  - first:
+      213: -3080838120052424482
+    second: _lienIdle_9
+  - first:
+      213: 9054666353775636579
+    second: _lienIdle_10
+  - first:
+      213: 9019250010026887757
+    second: _lienIdle_11
+  - first:
+      213: 2258018729406736404
+    second: _lienIdle_12
+  - first:
+      213: -6884541846066631387
+    second: _lienIdle_13
+  - first:
+      213: 4579020242681884287
+    second: _lienIdle_14
+  - first:
+      213: -357722701962316354
+    second: _lienIdle_15
+  - first:
+      213: 8527836852421254598
+    second: _lienIdle_16
+  - first:
+      213: -817646833365953361
+    second: _lienIdle_17
+  - first:
+      213: -3479491439816334063
+    second: _lienIdle_18
+  - first:
+      213: -6947718946127526625
+    second: _lienIdle_19
+  - first:
+      213: -4258747906515050004
+    second: _lienIdle_20
+  - first:
+      213: 8099998136772319072
+    second: _lienIdle_21
+  - first:
+      213: -8829583710301861634
+    second: _lienIdle_22
+  - first:
+      213: -2990026853030184049
+    second: _lienIdle_23
+  - first:
+      213: -8671642540752940238
+    second: _lienIdle_24
+  - first:
+      213: 2294478552788734672
+    second: _lienIdle_25
+  - first:
+      213: 4241675866237445756
+    second: _lienIdle_26
+  - first:
+      213: -8983855182948552660
+    second: _lienIdle_27
+  - first:
+      213: -1709993678572212340
+    second: _lienIdle_28
+  - first:
+      213: -5358864131319527815
+    second: _lienIdle_29
+  - first:
+      213: -6445144444880446538
+    second: _lienIdle_30
+  - first:
+      213: 1501048322972643387
+    second: _lienIdle_31
+  - first:
+      213: -4999006776077491001
+    second: _lienIdle_32
+  - first:
+      213: -6075597377996351322
+    second: _lienIdle_33
+  - first:
+      213: -4478072538564436357
+    second: _lienIdle_34
+  - first:
+      213: -2836683026639246873
+    second: _lienIdle_35
+  - first:
+      213: 2326498723340902256
+    second: _lienIdle_36
+  - first:
+      213: -2449389041296495386
+    second: _lienIdle_37
+  - first:
+      213: 2570100521468799240
+    second: _lienIdle_38
+  - first:
+      213: -5880892087194362482
+    second: _lienIdle_39
+  - first:
+      213: -3734031145275857206
+    second: _lienIdle_40
+  - first:
+      213: -8008411309285540384
+    second: _lienIdle_41
+  - first:
+      213: -8175311772342072126
+    second: _lienIdle_42
+  - first:
+      213: 4896708308189301252
+    second: _lienIdle_43
+  - first:
+      213: 7999481553097663990
+    second: _lienIdle_44
+  - first:
+      213: -9152565436847770901
+    second: _lienIdle_45
+  - first:
+      213: 3606942278841286791
+    second: _lienIdle_46
+  - first:
+      213: -6738928503547723319
+    second: _lienIdle_47
+  - first:
+      213: -5350243952326408479
+    second: _lienIdle_48
+  - first:
+      213: 7941980089960141181
+    second: _lienIdle_49
+  - first:
+      213: -1895725947253896633
+    second: _lienIdle_50
+  - first:
+      213: -3290645009949595593
+    second: _lienIdle_51
+  - first:
+      213: -3596977791000605315
+    second: _lienIdle_52
+  - first:
+      213: 4583871411196653478
+    second: _lienIdle_53
+  - first:
+      213: -2197982042566815725
+    second: _lienIdle_54
+  - first:
+      213: 7790969177229963271
+    second: _lienIdle_55
+  - first:
+      213: -3282695673534812411
+    second: _lienIdle_56
+  - first:
+      213: 3063290558627375892
+    second: _lienIdle_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _lienIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7578
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba72f8825b4c93d00800000000000000
+      internalID: 953009078514165675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_1
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 7578
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d80138dbecca35c0800000000000000
+      internalID: -4234847186272057127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_2
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 7578
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e8b80a96caeac60800000000000000
+      internalID: 7831386371708915229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_3
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 7578
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1b0b64f2e3e38c0800000000000000
+      internalID: -4017705444797533732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_4
+      rect:
+        serializedVersion: 2
+        x: 5404
+        y: 7578
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9059e43a1f51be50800000000000000
+      internalID: 6823339476604506268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_5
+      rect:
+        serializedVersion: 2
+        x: 6755
+        y: 7578
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8e01825cad51d00800000000000000
+      internalID: 942900237319596203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6736
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5973d21be3bb1beb0800000000000000
+      internalID: -4705774257690560619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_7
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 6736
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f795fec52fc4480800000000000000
+      internalID: -8913483081506521323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_8
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 6736
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d35ff829b184b30800000000000000
+      internalID: 4271694562855304514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_9
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 6736
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed00bc38d0aae35d0800000000000000
+      internalID: -3080838120052424482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_10
+      rect:
+        serializedVersion: 2
+        x: 5404
+        y: 6736
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3607a783313a8ad70800000000000000
+      internalID: 9054666353775636579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_11
+      rect:
+        serializedVersion: 2
+        x: 6755
+        y: 6736
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a471c1910da2d70800000000000000
+      internalID: 9019250010026887757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5894
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418a7762218165f10800000000000000
+      internalID: 2258018729406736404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_13
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 5894
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52de2e7baa13570a0800000000000000
+      internalID: -6884541846066631387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_14
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 5894
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e606866a2fb8f30800000000000000
+      internalID: 4579020242681884287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_15
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 5894
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5717d091d190bf0800000000000000
+      internalID: -357722701962316354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_16
+      rect:
+        serializedVersion: 2
+        x: 5404
+        y: 5894
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cddd035f66f85670800000000000000
+      internalID: 8527836852421254598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_17
+      rect:
+        serializedVersion: 2
+        x: 6755
+        y: 5894
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4df71898227a4f0800000000000000
+      internalID: -817646833365953361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5052
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1152cba78fc56bfc0800000000000000
+      internalID: -3479491439816334063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_19
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 5052
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1541d8dd6eb49f90800000000000000
+      internalID: -6947718946127526625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_20
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 5052
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce16b34c753e5e4c0800000000000000
+      internalID: -4258747906515050004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_21
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 5052
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067d3a7c369f86070800000000000000
+      internalID: 8099998136772319072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_22
+      rect:
+        serializedVersion: 2
+        x: 5404
+        y: 5052
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8c1e88564077580800000000000000
+      internalID: -8829583710301861634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_23
+      rect:
+        serializedVersion: 2
+        x: 6755
+        y: 5052
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bb1444b6a4186d0800000000000000
+      internalID: -2990026853030184049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4210
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2335143bd0328a780800000000000000
+      internalID: -8671642540752940238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_25
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 4210
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d299bb4610a7df10800000000000000
+      internalID: 2294478552788734672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_26
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 4210
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c762e6b1ab57dda30800000000000000
+      internalID: 4241675866237445756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_27
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 4210
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20bcc24f4fe25380800000000000000
+      internalID: -8983855182948552660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_28
+      rect:
+        serializedVersion: 2
+        x: 5404
+        y: 4210
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f2a8c2fc1e448e0800000000000000
+      internalID: -1709993678572212340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_29
+      rect:
+        serializedVersion: 2
+        x: 6755
+        y: 4210
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9760e1d077d71a5b0800000000000000
+      internalID: -5358864131319527815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3368
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb91d4764f3e86a0800000000000000
+      internalID: -6445144444880446538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_31
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 3368
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30fa713f7bc4d410800000000000000
+      internalID: 1501048322972643387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_32
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 3368
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c46122b2d5ff9ab0800000000000000
+      internalID: -4999006776077491001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_33
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 3368
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a89b36ef542faba0800000000000000
+      internalID: -6075597377996351322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_34
+      rect:
+        serializedVersion: 2
+        x: 5404
+        y: 3368
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e5f6480c0bad1c0800000000000000
+      internalID: -4478072538564436357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_35
+      rect:
+        serializedVersion: 2
+        x: 6755
+        y: 3368
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a9c011d312a8d0800000000000000
+      internalID: -2836683026639246873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2526
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f52273342694020800000000000000
+      internalID: 2326498723340902256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_37
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 2526
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eca9c4f4a5020ed0800000000000000
+      internalID: -2449389041296495386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_38
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 2526
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809a13baec4daa320800000000000000
+      internalID: 2570100521468799240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_39
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 2526
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ddf541ecfd26ea0800000000000000
+      internalID: -5880892087194362482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_40
+      rect:
+        serializedVersion: 2
+        x: 5404
+        y: 2526
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac66695057e0e2cc0800000000000000
+      internalID: -3734031145275857206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_41
+      rect:
+        serializedVersion: 2
+        x: 6755
+        y: 2526
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed70d638586cd090800000000000000
+      internalID: -8008411309285540384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1684
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc4b79f1457b8e80800000000000000
+      internalID: -8175311772342072126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_43
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1684
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ac35e234a94f340800000000000000
+      internalID: 4896708308189301252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_44
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 1684
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f52da7e61ed30f60800000000000000
+      internalID: 7999481553097663990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_45
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 1684
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2bb214a3e8bf080800000000000000
+      internalID: -9152565436847770901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_46
+      rect:
+        serializedVersion: 2
+        x: 5404
+        y: 1684
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7804ca764ee6e0230800000000000000
+      internalID: 3606942278841286791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_47
+      rect:
+        serializedVersion: 2
+        x: 6755
+        y: 1684
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1884bfa348a72a0800000000000000
+      internalID: -6738928503547723319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e607efd87d10c5b0800000000000000
+      internalID: -5350243952326408479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_49
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 842
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d719c4b30d4973e60800000000000000
+      internalID: 7941980089960141181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_50
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 842
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ac0728b4701b5e0800000000000000
+      internalID: -1895725947253896633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_51
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 842
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738ea0c4cc74552d0800000000000000
+      internalID: -3290645009949595593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_52
+      rect:
+        serializedVersion: 2
+        x: 5404
+        y: 842
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d8076b1c7f41ec0800000000000000
+      internalID: -3596977791000605315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_53
+      rect:
+        serializedVersion: 2
+        x: 6755
+        y: 842
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afe17813ce2d9f30800000000000000
+      internalID: 4583871411196653478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3101e1a4af23f71e0800000000000000
+      internalID: -2197982042566815725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_55
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 0
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7003fc830351f1c60800000000000000
+      internalID: 7790969177229963271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_56
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 0
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fee396da58172d0800000000000000
+      internalID: -3282695673534812411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _lienIdle_57
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 0
+        width: 1351
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41beac6788ef28a20800000000000000
+      internalID: 3063290558627375892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -14,6 +14,9 @@ public class ActivarAtaquesEnemigos : MonoBehaviour
                 collision.GetComponent<NaveEnemigaWeapon>().ActivarAtaque();
             }else if (collision.GetComponent<RayoLaserWeapon>()){
                 collision.GetComponent<RayoLaserWeapon>().ActivarAtaque();
+            } else if (collision.GetComponent<AlienRocaWeapon>())
+            {
+                collision.GetComponent<AlienRocaWeapon>().ActivarAtaque();
             }
         }
     }

@@ -31,7 +31,7 @@ public class LaserScr : MonoBehaviour
                 Destroy(gameObject);
             }
 
-            if (collision.CompareTag("ProyectilPlayer"))
+            if (collision.CompareTag("ProyectilPlayer")) //el tag no tiene nada que ver esto mira si colide con el muro al final para destruir los proyectiles al salir
             {
                 Destroy(gameObject);
             }

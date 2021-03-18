@@ -8,6 +8,7 @@ public class EnemySpawner : MonoBehaviour
     [SerializeField] GameObject enemy1;
     [SerializeField] GameObject enemy2;
     [SerializeField] GameObject enemy3;
+    [SerializeField] GameObject bossFinal;
     private float globalDelay = 8;
     private int spawnCounter = 0;
     void Start()
@@ -25,9 +26,17 @@ public class EnemySpawner : MonoBehaviour
 
     private IEnumerator RondaSpawn(float delay)
     {
+        print(spawnCounter);
         yield return new WaitForSeconds(delay);
+        if (spawnCounter <= 15) { 
         SpawnEnemigos();
         StartCoroutine(RondaSpawn(globalDelay));
+        }
+        else
+        {
+            SpawnBoss();
+        }
+  
     }
 
     private void SpawnEnemigos()
@@ -35,7 +44,7 @@ public class EnemySpawner : MonoBehaviour
         spawnCounter++;
         foreach (Transform child in transform)
         {
-            int rand = Random.Range(1, 3);
+            int rand = Random.Range(1, 4);
             switch (rand) {
                 case 1:
                     Instantiate(enemy1, child.position, child.rotation);
@@ -43,7 +52,15 @@ public class EnemySpawner : MonoBehaviour
                 case 2:
                     Instantiate(enemy2, child.position, child.rotation);
                     break;
+                case 3:
+                    Instantiate(enemy3, child.position, child.rotation);
+                break;
             }
     }
+    }
+
+    private void SpawnBoss()
+    {
+
     }
 }
