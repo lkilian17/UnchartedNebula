@@ -35,6 +35,12 @@ public class LaserScr : MonoBehaviour
             {
                 Destroy(gameObject);
             }
+            if (collision.CompareTag("Boss"))
+            {
+                collision.GetComponent<BossScr>().TakeDamage(1);
+                collision.GetComponent<Animator>().SetTrigger("BossHit");
+                Destroy(gameObject);
+            }
         }
         else
         {
@@ -46,4 +52,5 @@ public class LaserScr : MonoBehaviour
 
         }   
     }
+
 }

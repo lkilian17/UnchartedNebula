@@ -9,6 +9,8 @@ public class EnemySpawner : MonoBehaviour
     [SerializeField] GameObject enemy2;
     [SerializeField] GameObject enemy3;
     [SerializeField] GameObject bossFinal;
+    [SerializeField] GameObject bossSpawn;
+    [SerializeField] int rondasMax = 15;
     private float globalDelay = 8;
     private int spawnCounter = 0;
     void Start()
@@ -28,7 +30,7 @@ public class EnemySpawner : MonoBehaviour
     {
         print(spawnCounter);
         yield return new WaitForSeconds(delay);
-        if (spawnCounter <= 15) { 
+        if (spawnCounter <= rondasMax) { 
         SpawnEnemigos();
         StartCoroutine(RondaSpawn(globalDelay));
         }
@@ -56,11 +58,11 @@ public class EnemySpawner : MonoBehaviour
                     Instantiate(enemy3, child.position, child.rotation);
                 break;
             }
-    }
+        }
     }
 
     private void SpawnBoss()
     {
-
+        Instantiate(bossFinal, bossSpawn.transform.position, bossSpawn.transform.rotation);
     }
 }

@@ -7,6 +7,8 @@ public class NaveEnemigaScr : MonoBehaviour
     Rigidbody2D rb;
     [SerializeField] GameObject pickUpAmmo;
     [SerializeField] GameObject pickUpVida;
+    private bool left = false;
+    PuntuacionScr puntuacionScr;
     public int vidaInicial = 4;
     public int vidaActual;
     Vector2 moviment = new Vector2();
@@ -24,6 +26,7 @@ public class NaveEnemigaScr : MonoBehaviour
     void Start()
     {
         vidaActual = vidaInicial;
+        puntuacionScr = GameObject.FindGameObjectWithTag("GestorPuntuacion").GetComponent<PuntuacionScr>();
         player = GameObject.FindGameObjectWithTag("Player");
         rb = gameObject.GetComponent<Rigidbody2D>();
         velY = Random.Range(-2f, 2f);
@@ -69,6 +72,7 @@ public class NaveEnemigaScr : MonoBehaviour
                 }
             print(rand2+"**");
             }
+        puntuacionScr.puntuacion += 10;
         Destroy(gameObject);
     }
 
@@ -134,6 +138,13 @@ public class NaveEnemigaScr : MonoBehaviour
         else
         {
             velX = -10f;
+            if (!left) {
+                left = true;
+                puntuacionScr.puntuacion -= 50;
+                if (puntuacionScr.puntuacion<0) {
+                    puntuacionScr.puntuacion = 0;
+                }
+            }
         }
     }
 

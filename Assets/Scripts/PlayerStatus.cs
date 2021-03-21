@@ -6,6 +6,7 @@ public class PlayerStatus : MonoBehaviour
 {
     public int vidaInicial = 5;
     public int vidaActual;
+    [SerializeField] GameObject[] NacelleTrails;
     // Start is called before the first frame update
     void Start()
     {
@@ -29,8 +30,12 @@ public class PlayerStatus : MonoBehaviour
 
     private void DestruirPlayer()
     {
+        gameObject.GetComponent<PlayerWeapon>().DesactivarCañones();
         gameObject.GetComponent<PlayerWeapon>().enabled = false;
         gameObject.GetComponent<SpriteRenderer>().enabled = false;
-        //TODO muerte player
+        foreach (GameObject g in NacelleTrails)
+        {
+            g.SetActive(false);
+        }
     }
 }

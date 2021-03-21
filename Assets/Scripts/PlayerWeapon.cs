@@ -53,7 +53,7 @@ public class PlayerWeapon : MonoBehaviour
         }
     }
 
-    private void DesactivarCañones()
+    public void DesactivarCañones()
     {
         foreach (GameObject g in laseresExtra)
         {
