@@ -7,7 +7,6 @@ public class BossFinalWeapon : MonoBehaviour
     // Start is called before the first frame update
     [SerializeField] GameObject proyectil;
     private float turn = 1;
-    float time = 0;
     float nextTime = 3;
     void Start()
     {

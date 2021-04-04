@@ -20,7 +20,7 @@ public class PlayerWeapon : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown("space"))
+        if (ETCInput.GetButton("AttackBTN"))
         {
             Instantiate(laser, cannon1.transform.position, cannon1.transform.rotation);
             Instantiate(laser, cannon2.transform.position, cannon2.transform.rotation);
