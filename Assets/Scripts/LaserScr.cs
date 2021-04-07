@@ -8,6 +8,7 @@ public class LaserScr : MonoBehaviour
     public bool enemigo;
     public float speed;
     Rigidbody2D rb;
+    [SerializeField] GameObject explosion;
     void Start()
     {
         Destroy(gameObject, 5);
@@ -28,6 +29,7 @@ public class LaserScr : MonoBehaviour
             if (collision.CompareTag("Enemy"))
             {
                 collision.GetComponent<NaveEnemigaScr>().TakeDamage(1);
+                Instantiate(explosion, transform.position, transform.rotation);
                 Destroy(gameObject);
             }
 
@@ -39,6 +41,7 @@ public class LaserScr : MonoBehaviour
             {
                 collision.GetComponent<BossScr>().TakeDamage(1);
                 collision.GetComponent<Animator>().SetTrigger("BossHit");
+                Instantiate(explosion, transform.position, transform.rotation);
                 Destroy(gameObject);
             }
         }
@@ -47,6 +50,8 @@ public class LaserScr : MonoBehaviour
                 if (collision.CompareTag("Player"))
             {
                 collision.GetComponent<PlayerStatus>().TakeDamage(1);
+
+                Instantiate(explosion, transform.position, transform.rotation);
                 Destroy(gameObject);
             }
 

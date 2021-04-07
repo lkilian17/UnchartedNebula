@@ -198,6 +198,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemigo: 0
   speed: 15
+  explosion: {fileID: 6873980877609491762, guid: fd3d234cb2b9a9d48a12574cbf4b976a, type: 3}
 --- !u!50 &378690944135524175
 Rigidbody2D:
   serializedVersion: 4

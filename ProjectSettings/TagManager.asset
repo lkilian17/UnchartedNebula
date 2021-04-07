@@ -8,6 +8,7 @@ TagManager:
   - ProyectilPlayer
   - Boss
   - GestorPuntuacion
+  - MenuManager
   layers:
   - Default
   - TransparentFX

@@ -8,6 +8,7 @@ public class BossScr : MonoBehaviour
     public int vidaActual;
     [SerializeField] GameObject pickupAmmo;
     [SerializeField] GameObject pickupVida;
+    [SerializeField] GameObject Explosion;
     Rigidbody2D rb;
     GameObject player;
     float desfase = 0;
@@ -41,7 +42,7 @@ public class BossScr : MonoBehaviour
     {
         vidaActual = vidaActual -= 1;
 
-        int rand = Random.Range(1, 100);
+        int rand = Random.Range(1, 60);
         if (rand == 8)
         {
             Instantiate(pickupAmmo, transform.position, transform.rotation);
@@ -49,7 +50,7 @@ public class BossScr : MonoBehaviour
         }
         else
         {
-            int rand2 = Random.Range(1, 100);
+            int rand2 = Random.Range(1, 70);
             if (rand2 == 4)
             {
                 Instantiate(pickupVida, transform.position, transform.rotation);
@@ -59,11 +60,20 @@ public class BossScr : MonoBehaviour
 
         if (vidaActual <= 0)
         {
-            Destroy(gameObject);
+            Instantiate(Explosion, transform.position, transform.rotation);
+            gameObject.GetComponent<SpriteRenderer>().enabled = false;
+            StartCoroutine(DestruirEnemigo());
         }
     }
     void Update()
     {
         
+    }
+
+    private IEnumerator DestruirEnemigo()
+    {
+        yield return new WaitForSeconds(2);
+        GameObject.FindGameObjectWithTag("MenuManager").GetComponent<ButtonManager>().VictoryScreen();
+        Destroy(gameObject);
     }
 }

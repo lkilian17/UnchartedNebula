@@ -151,6 +151,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pickUpAmmo: {fileID: 5687408818179754807, guid: 06ebfd96e1efea54788af7f22f73d672, type: 3}
   pickUpVida: {fileID: 5687408818179754807, guid: a63ec7df76851fe448017d9c4ceb0c5b, type: 3}
+  explosion: {fileID: 6873980877609491762, guid: fd6f612fc44dcb14d92c9083abe202a2, type: 3}
   vidaInicial: 4
   vidaActual: 0
   velX: -2

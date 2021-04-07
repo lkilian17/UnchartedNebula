@@ -2,18 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PuntuacionScr : MonoBehaviour
+public class DestroyFX : MonoBehaviour
 {
     // Start is called before the first frame update
-    public int puntuacion = 0;
     void Start()
     {
-        
+        Destroy(gameObject, 2);
     }
 
     // Update is called once per frame
     void Update()
     {
-       
+        
     }
 }

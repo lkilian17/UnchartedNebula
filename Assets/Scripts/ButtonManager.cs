@@ -12,7 +12,7 @@ using UnityEngine.UI;
 /// DATA:   1/4/2021
 /// VERSIÓ: 1.0
 /// CONTROL DE VERSIONS
-///         1.0: aaa
+///         1.0: Funcionament dels botons, control dels "sticky buttons" i control de les imatges que apareixen en el dropdown d'audio mode
 /// ----------------------------------------------------------------------------------
 /// </summary>
 /// 
@@ -22,6 +22,8 @@ public class ButtonManager : MonoBehaviour
     public GameObject inici, exit, options, credits, victory, defeat, pauseMenu, controlsViewer, videoViewer, audioViewer;
     public Button showControlsBTN, showVideoBTN, showAudioBTN;
     public Sprite defaultControlsBTN, pressedControlsBTN, defaultVideoBTN, pressedVideoBTN, defaultAudioBTN, pressedAudioBTN;
+    public GameObject headphones, audio20, audio21, audio51;
+    public Dropdown audioDropdown;
 
 
     // -------- BOTONS MENU PRINCIPAL --------
@@ -127,11 +129,13 @@ public class ButtonManager : MonoBehaviour
     public void PauseMenuOptionsOnClick()
     {
         options.SetActive(true);
+        pauseMenu.SetActive(false);
     }
 
     public void PauseMenuCreditsOnClick()
     {
         credits.SetActive(true);
+        pauseMenu.SetActive(false);
     }
 
     public void PauseMenuMenuOnClick()
@@ -152,6 +156,7 @@ public class ButtonManager : MonoBehaviour
     public void PauseCreditsReturnOnClick()
     {
         credits.SetActive(false);
+        pauseMenu.SetActive(true);
     }
 
 
@@ -160,6 +165,46 @@ public class ButtonManager : MonoBehaviour
     public void PauseOptionsReturnOnClick()
     {
         options.SetActive(false);
+        pauseMenu.SetActive(true);
+    }
+
+
+    // -------- DROPDOWN AUDIO --------
+
+    public void DropdownAudio()
+    {
+        switch (audioDropdown.value)    // activa o desactiva la imatge corresponent depenent de l'opció seleccionada al dropdown
+        {
+            case 0:
+                headphones.SetActive(true);
+                audio20.SetActive(false);
+                audio21.SetActive(false);
+                audio51.SetActive(false);
+                break;
+            case 1:
+                headphones.SetActive(false);
+                audio20.SetActive(true);
+                audio21.SetActive(false);
+                audio51.SetActive(false);
+                break;
+            case 2:
+                headphones.SetActive(false);
+                audio20.SetActive(false);
+                audio21.SetActive(true);
+                audio51.SetActive(false);
+                break;
+            case 3:
+                headphones.SetActive(false);
+                audio20.SetActive(false);
+                audio21.SetActive(false);
+                audio51.SetActive(true);
+                break;
+        }
+    }
+
+    public void VictoryScreen()
+    {
+        victory.SetActive(true);
     }
 
 }

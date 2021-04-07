@@ -7,6 +7,7 @@ public class NaveEnemigaScr : MonoBehaviour
     Rigidbody2D rb;
     [SerializeField] GameObject pickUpAmmo;
     [SerializeField] GameObject pickUpVida;
+    [SerializeField] GameObject explosion;
     private bool left = false;
     PuntuacionScr puntuacionScr;
     public int vidaInicial = 4;
@@ -59,6 +60,7 @@ public class NaveEnemigaScr : MonoBehaviour
 
     private void DestruirEnemigo()
     {
+        Instantiate(explosion, transform.position, transform.rotation);
         int rand = Random.Range(1, 8);
         if (rand == 7)
         {

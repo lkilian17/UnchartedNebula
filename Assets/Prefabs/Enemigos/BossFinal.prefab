@@ -161,10 +161,10 @@ GameObject:
   - component: {fileID: 6295417788650447944}
   - component: {fileID: 6295417788650447945}
   - component: {fileID: 6295417788650447958}
-  - component: {fileID: 6295417788650447947}
   - component: {fileID: 1540116578665625703}
   - component: {fileID: 8620506405130276438}
   - component: {fileID: 1201065915095878604}
+  - component: {fileID: -1397414882681278700}
   m_Layer: 0
   m_Name: BossFinal
   m_TagString: Boss
@@ -261,32 +261,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!61 &6295417788650447947
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6295417788650447959}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.54503477, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 13.510852, y: 8.42}
-    newSize: {x: 13.512565, y: 8.42}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 7.9696693, y: 8.42}
-  m_EdgeRadius: 0
 --- !u!114 &1540116578665625703
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -303,6 +277,7 @@ MonoBehaviour:
   vidaActual: 0
   pickupAmmo: {fileID: 5687408818179754807, guid: 06ebfd96e1efea54788af7f22f73d672, type: 3}
   pickupVida: {fileID: 5687408818179754807, guid: a63ec7df76851fe448017d9c4ceb0c5b, type: 3}
+  Explosion: {fileID: 6873980877609491762, guid: 9c42d62606546be438fcfe499df1797a, type: 3}
 --- !u!50 &8620506405130276438
 Rigidbody2D:
   serializedVersion: 4
@@ -337,3 +312,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   proyectil: {fileID: 8004086324535624140, guid: 374df0bfcbcec8b40bb8f996eb8ef116, type: 3}
+--- !u!58 &-1397414882681278700
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6295417788650447959}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0.14574096}
+  serializedVersion: 2
+  m_Radius: 2.820418

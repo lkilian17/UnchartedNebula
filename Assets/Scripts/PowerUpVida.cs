@@ -21,6 +21,7 @@ public class PowerUpVida : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
+            if (collision.GetComponent<PlayerStatus>().vidaActual < collision.GetComponent<PlayerStatus>().vidaInicial)
             collision.GetComponent<PlayerStatus>().vidaActual += 1;
             Destroy(gameObject);
         }
