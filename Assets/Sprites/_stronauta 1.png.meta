@@ -1,0 +1,1630 @@
+fileFormatVersion: 2
+guid: dacfe5cdb5904c04cb54e46c005abff6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6965157499507698481
+    second: _stronauta 1_0
+  - first:
+      213: -3847987869847344604
+    second: _stronauta 1_1
+  - first:
+      213: -4153684509870270527
+    second: _stronauta 1_2
+  - first:
+      213: 1810220544779806698
+    second: _stronauta 1_3
+  - first:
+      213: 2632069611271834628
+    second: _stronauta 1_4
+  - first:
+      213: 773694681290254303
+    second: _stronauta 1_5
+  - first:
+      213: -489603932668110711
+    second: _stronauta 1_6
+  - first:
+      213: 7300982552758308049
+    second: _stronauta 1_7
+  - first:
+      213: -4030564244093411800
+    second: _stronauta 1_8
+  - first:
+      213: -5579555047976533569
+    second: _stronauta 1_9
+  - first:
+      213: 876773487612078850
+    second: _stronauta 1_10
+  - first:
+      213: 5207149405521803724
+    second: _stronauta 1_11
+  - first:
+      213: 6664488107005532197
+    second: _stronauta 1_12
+  - first:
+      213: 6366950486383185340
+    second: _stronauta 1_13
+  - first:
+      213: 4113682440083500619
+    second: _stronauta 1_14
+  - first:
+      213: 2783538983657018070
+    second: _stronauta 1_15
+  - first:
+      213: -1453478620092393999
+    second: _stronauta 1_16
+  - first:
+      213: -2491700074288362887
+    second: _stronauta 1_17
+  - first:
+      213: 5786170449734126080
+    second: _stronauta 1_18
+  - first:
+      213: -1322686569993331241
+    second: _stronauta 1_19
+  - first:
+      213: 5230633114652869437
+    second: _stronauta 1_20
+  - first:
+      213: -6234246023844274080
+    second: _stronauta 1_21
+  - first:
+      213: 8182205217560811560
+    second: _stronauta 1_22
+  - first:
+      213: -848190634172932668
+    second: _stronauta 1_23
+  - first:
+      213: -3398162150329227343
+    second: _stronauta 1_24
+  - first:
+      213: 2072303883141686594
+    second: _stronauta 1_25
+  - first:
+      213: -4269923264103198575
+    second: _stronauta 1_26
+  - first:
+      213: -4039600464171558196
+    second: _stronauta 1_27
+  - first:
+      213: 3896751816134514924
+    second: _stronauta 1_28
+  - first:
+      213: -6356676801704221874
+    second: _stronauta 1_29
+  - first:
+      213: -3651033030347660320
+    second: _stronauta 1_30
+  - first:
+      213: 6312354878361815780
+    second: _stronauta 1_31
+  - first:
+      213: 4389952696956057025
+    second: _stronauta 1_32
+  - first:
+      213: -282117892249724846
+    second: _stronauta 1_33
+  - first:
+      213: 2343724501376920353
+    second: _stronauta 1_34
+  - first:
+      213: -1221920210735069881
+    second: _stronauta 1_35
+  - first:
+      213: 4736131061220822653
+    second: _stronauta 1_36
+  - first:
+      213: 5655967159310149644
+    second: _stronauta 1_37
+  - first:
+      213: 2106005056919054947
+    second: _stronauta 1_38
+  - first:
+      213: -2923263993165284360
+    second: _stronauta 1_39
+  - first:
+      213: 8989562375863740040
+    second: _stronauta 1_40
+  - first:
+      213: -9193261346176501309
+    second: _stronauta 1_41
+  - first:
+      213: 2698479285584519199
+    second: _stronauta 1_42
+  - first:
+      213: 6061767745474608583
+    second: _stronauta 1_43
+  - first:
+      213: -6144126430789008713
+    second: _stronauta 1_44
+  - first:
+      213: 7186144391267003524
+    second: _stronauta 1_45
+  - first:
+      213: 3616268217442406672
+    second: _stronauta 1_46
+  - first:
+      213: 8152066795826890436
+    second: _stronauta 1_47
+  - first:
+      213: -964808119596719314
+    second: _stronauta 1_48
+  - first:
+      213: 6394880267411774276
+    second: _stronauta 1_49
+  - first:
+      213: 5344673230743650917
+    second: _stronauta 1_50
+  - first:
+      213: 8963122370888315082
+    second: _stronauta 1_51
+  - first:
+      213: -8768902941923387684
+    second: _stronauta 1_52
+  - first:
+      213: 4287433846143995635
+    second: _stronauta 1_53
+  - first:
+      213: 103270396683765780
+    second: _stronauta 1_54
+  - first:
+      213: 3681857219766780391
+    second: _stronauta 1_55
+  - first:
+      213: -5964931870457802696
+    second: _stronauta 1_56
+  - first:
+      213: 869482530761476005
+    second: _stronauta 1_57
+  - first:
+      213: 5435420196211007885
+    second: _stronauta 1_58
+  - first:
+      213: -3692966905381859563
+    second: _stronauta 1_59
+  - first:
+      213: -4756027139255517806
+    second: _stronauta 1_60
+  - first:
+      213: -5308151869386296061
+    second: _stronauta 1_61
+  - first:
+      213: -2259221473788668716
+    second: _stronauta 1_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _stronauta 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10770
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4123d382ac65f90800000000000000
+      internalID: -6965157499507698481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_1
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 10770
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42aacbd7b63399ac0800000000000000
+      internalID: -3847987869847344604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_2
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 10770
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7d32802f52b56c0800000000000000
+      internalID: -4153684509870270527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_3
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 10770
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7e6b89ef13f1910800000000000000
+      internalID: 1810220544779806698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_4
+      rect:
+        serializedVersion: 2
+        x: 4792
+        y: 10770
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c45fbbd5df68420800000000000000
+      internalID: 2632069611271834628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_5
+      rect:
+        serializedVersion: 2
+        x: 5990
+        y: 10770
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd72ae2a637bcba00800000000000000
+      internalID: 773694681290254303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9693
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988dea831d39439f0800000000000000
+      internalID: -489603932668110711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_7
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 9693
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dccb7013fc425560800000000000000
+      internalID: 7300982552758308049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_8
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 9693
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82edb62cc2f8018c0800000000000000
+      internalID: -4030564244093411800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_9
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 9693
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb10f90ee307192b0800000000000000
+      internalID: -5579555047976533569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_10
+      rect:
+        serializedVersion: 2
+        x: 4792
+        y: 9693
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b299577dcea2c00800000000000000
+      internalID: 876773487612078850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_11
+      rect:
+        serializedVersion: 2
+        x: 5990
+        y: 9693
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc97380bbc2834840800000000000000
+      internalID: 5207149405521803724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8616
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52851e39f940d7c50800000000000000
+      internalID: 6664488107005532197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_13
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 8616
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdce5bdbb3fb5850800000000000000
+      internalID: 6366950486383185340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_14
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 8616
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e60ff426cb61930800000000000000
+      internalID: 4113682440083500619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_15
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 8616
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2145335fd11a620800000000000000
+      internalID: 2783538983657018070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_16
+      rect:
+        serializedVersion: 2
+        x: 4792
+        y: 8616
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f594c855e434dbe0800000000000000
+      internalID: -1453478620092393999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_17
+      rect:
+        serializedVersion: 2
+        x: 5990
+        y: 8616
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a4a39ebf3bb6dd0800000000000000
+      internalID: -2491700074288362887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7539
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ac34a1e5b9c4050800000000000000
+      internalID: 5786170449734126080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_19
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 7539
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd1e5e829fd4ade0800000000000000
+      internalID: -1322686569993331241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_20
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 7539
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33874dca11f69840800000000000000
+      internalID: 5230633114652869437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_21
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 7539
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060ee5295428b79a0800000000000000
+      internalID: -6234246023844274080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_22
+      rect:
+        serializedVersion: 2
+        x: 4792
+        y: 7539
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8285f005b480d8170800000000000000
+      internalID: 8182205217560811560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_23
+      rect:
+        serializedVersion: 2
+        x: 5990
+        y: 7539
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd1f44bc1f9a34f0800000000000000
+      internalID: -848190634172932668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6462
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7e27c478d47d0d0800000000000000
+      internalID: -3398162150329227343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_25
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 6462
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245a255f66d42cc10800000000000000
+      internalID: 2072303883141686594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_26
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 6462
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190d3f01a6f2eb4c0800000000000000
+      internalID: -4269923264103198575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_27
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 6462
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca1d82d7c470f7c0800000000000000
+      internalID: -4039600464171558196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_28
+      rect:
+        serializedVersion: 2
+        x: 4792
+        y: 6462
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce85e82812b041630800000000000000
+      internalID: 3896751816134514924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_29
+      rect:
+        serializedVersion: 2
+        x: 5990
+        y: 6462
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e432472c02c88c7a0800000000000000
+      internalID: -6356676801704221874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5385
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3e8ea8dcce45dc0800000000000000
+      internalID: -3651033030347660320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_31
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 5385
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eac5fc415df99750800000000000000
+      internalID: 6312354878361815780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_32
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 5385
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c575da08be3cec30800000000000000
+      internalID: 4389952696956057025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_33
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 5385
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2585caf8547b51cf0800000000000000
+      internalID: -282117892249724846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_34
+      rect:
+        serializedVersion: 2
+        x: 4792
+        y: 5385
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b63f33405968020800000000000000
+      internalID: 2343724501376920353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_35
+      rect:
+        serializedVersion: 2
+        x: 5990
+        y: 5385
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7450447da0eda0fe0800000000000000
+      internalID: -1221920210735069881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4308
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ec2c96b1e1ab140800000000000000
+      internalID: 4736131061220822653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_37
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 4308
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08e4ff2a280e7e40800000000000000
+      internalID: 5655967159310149644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_38
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 4308
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a26d0f0780a3d10800000000000000
+      internalID: 2106005056919054947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_39
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 4308
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb71b6e2ea7e67d0800000000000000
+      internalID: -2923263993165284360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_40
+      rect:
+        serializedVersion: 2
+        x: 4792
+        y: 4308
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88623932a5751cc70800000000000000
+      internalID: 8989562375863740040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_41
+      rect:
+        serializedVersion: 2
+        x: 5990
+        y: 4308
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9f1dd7389fa6080800000000000000
+      internalID: -9193261346176501309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3231
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10e303fc9ce27520800000000000000
+      internalID: 2698479285584519199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_43
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 3231
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd3febd5a9bf1450800000000000000
+      internalID: 6061767745474608583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_44
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 3231
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b28bbd609dabbaa0800000000000000
+      internalID: -6144126430789008713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_45
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 3231
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ca22200405ab360800000000000000
+      internalID: 7186144391267003524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_46
+      rect:
+        serializedVersion: 2
+        x: 4792
+        y: 3231
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0119031b8c09f2230800000000000000
+      internalID: 3616268217442406672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_47
+      rect:
+        serializedVersion: 2
+        x: 5990
+        y: 3231
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6c48e2f85f12170800000000000000
+      internalID: 8152066795826890436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2154
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23660380205c92f0800000000000000
+      internalID: -964808119596719314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_49
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 2154
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bdb30c8bd2fb850800000000000000
+      internalID: 6394880267411774276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_50
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 2154
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562c30f6cf71c2a40800000000000000
+      internalID: 5344673230743650917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_51
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 2154
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0b723ce48636c70800000000000000
+      internalID: 8963122370888315082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_52
+      rect:
+        serializedVersion: 2
+        x: 4792
+        y: 2154
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd657c4eb399e4680800000000000000
+      internalID: -8768902941923387684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_53
+      rect:
+        serializedVersion: 2
+        x: 5990
+        y: 2154
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe46650e56008b30800000000000000
+      internalID: 4287433846143995635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1077
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418462ee0e3ee6100800000000000000
+      internalID: 103270396683765780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_55
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1077
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e108e152a5981330800000000000000
+      internalID: 3681857219766780391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_56
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 1077
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830d4ff311e483da0800000000000000
+      internalID: -5964931870457802696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_57
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 1077
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7027841c5011c00800000000000000
+      internalID: 869482530761476005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_58
+      rect:
+        serializedVersion: 2
+        x: 4792
+        y: 1077
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d812420dedd7e6b40800000000000000
+      internalID: 5435420196211007885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_59
+      rect:
+        serializedVersion: 2
+        x: 5990
+        y: 1077
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fc07d6a22ffbcc0800000000000000
+      internalID: -3692966905381859563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dbe8ee3823ffdb0800000000000000
+      internalID: -4756027139255517806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_61
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 0
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3057763aff7a556b0800000000000000
+      internalID: -5308151869386296061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _stronauta 1_62
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 0
+        width: 1198
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d454e91a02a5a0e0800000000000000
+      internalID: -2259221473788668716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

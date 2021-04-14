@@ -273,6 +273,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8fda21625bc1304499bd2222d1e855d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damage: {fileID: 8300000, guid: 7f86749560d9946409a5beea3a85078e, type: 3}
+  muerte: {fileID: 8300000, guid: f8330c3d552835c4d8d736c5c18ee141, type: 3}
+  victory: {fileID: 8300000, guid: 32daa1e272988234c884c573d763af79, type: 3}
   vidaInicial: 300
   vidaActual: 0
   pickupAmmo: {fileID: 5687408818179754807, guid: 06ebfd96e1efea54788af7f22f73d672, type: 3}

@@ -18,6 +18,7 @@ using UnityEngine.UI;
 
 public class UI : MonoBehaviour
 {
+    [SerializeField] AudioClip Defeat;
     [SerializeField] Text score;
     PuntuacionScr scrP;
     PlayerStatus scrV;
@@ -87,6 +88,7 @@ public class UI : MonoBehaviour
     {
         yield return new WaitForSeconds(2);
         Time.timeScale = 0;
+        AudioSource.PlayClipAtPoint(Defeat, Camera.main.transform.position);
         defeat.SetActive(true); // si et quedes sense vida, es para el joc i et surt la pantalla de loser
     }
 }

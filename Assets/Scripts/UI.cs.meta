@@ -3,7 +3,15 @@ guid: 56b23452e43588149a7db82b3e52b2fe
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Defeat: {fileID: 8300000, guid: a794436eb163ab34181233dcc8b1ed01, type: 3}
+  - score: {instanceID: 0}
+  - defeat: {instanceID: 0}
+  - life01: {instanceID: 0}
+  - life02: {instanceID: 0}
+  - life03: {instanceID: 0}
+  - life04: {instanceID: 0}
+  - life05: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

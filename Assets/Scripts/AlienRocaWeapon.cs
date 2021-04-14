@@ -5,6 +5,7 @@ using UnityEngine;
 public class AlienRocaWeapon : MonoBehaviour
 {
     // Start is called before the first frame update
+    [SerializeField] AudioClip disparo;
     [SerializeField] GameObject proyectilRoca;
     [SerializeField] Transform[] cannons;
     public float shotCD = 1.5f;
@@ -32,6 +33,7 @@ public class AlienRocaWeapon : MonoBehaviour
             {
                 foreach (Transform c in cannons)
                 {
+                    AudioSource.PlayClipAtPoint(disparo, Camera.main.transform.position);
                     Instantiate(proyectilRoca, c.position, c.rotation);
                 }
                 shootTime = false;

@@ -3,7 +3,33 @@ guid: 8650a5475c88e1146996019bbdb98f5a
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - inici: {instanceID: 0}
+  - exit: {instanceID: 0}
+  - options: {instanceID: 0}
+  - credits: {instanceID: 0}
+  - victory: {instanceID: 0}
+  - defeat: {instanceID: 0}
+  - pauseMenu: {instanceID: 0}
+  - controlsViewer: {instanceID: 0}
+  - videoViewer: {instanceID: 0}
+  - audioViewer: {instanceID: 0}
+  - showControlsBTN: {instanceID: 0}
+  - showVideoBTN: {instanceID: 0}
+  - showAudioBTN: {instanceID: 0}
+  - defaultControlsBTN: {instanceID: 0}
+  - pressedControlsBTN: {instanceID: 0}
+  - defaultVideoBTN: {instanceID: 0}
+  - pressedVideoBTN: {instanceID: 0}
+  - defaultAudioBTN: {instanceID: 0}
+  - pressedAudioBTN: {instanceID: 0}
+  - headphones: {instanceID: 0}
+  - audio20: {instanceID: 0}
+  - audio21: {instanceID: 0}
+  - audio51: {instanceID: 0}
+  - audioDropdown: {instanceID: 0}
+  - SonidoEnter: {fileID: 8300000, guid: 3398668be84a76a498eb40b7a04f969d, type: 3}
+  - SonidoExit: {fileID: 8300000, guid: 46a52d8167a627544bc971173808a384, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

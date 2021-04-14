@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerStatus : MonoBehaviour
 {
+    [SerializeField] AudioClip Damage, Explosion;
     public int vidaInicial = 5;
     public int vidaActual;
     [SerializeField] GameObject[] NacelleTrails;
@@ -34,6 +35,7 @@ public class PlayerStatus : MonoBehaviour
 
     public void TakeDamage(int dmg)
     {
+        AudioSource.PlayClipAtPoint(Damage, Camera.main.transform.position);
         vidaActual -= dmg;
         if (vidaActual <= 0)
         {
@@ -48,6 +50,7 @@ public class PlayerStatus : MonoBehaviour
 
     private void DestruirPlayer()
     {
+        AudioSource.PlayClipAtPoint(Explosion, Camera.main.transform.position);
         gameObject.GetComponent<PlayerWeapon>().DesactivarCañones();
         gameObject.GetComponent<PlayerWeapon>().enabled = false;
         gameObject.GetComponent<SpriteRenderer>().enabled = false;

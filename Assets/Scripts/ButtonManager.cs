@@ -25,6 +25,7 @@ public class ButtonManager : MonoBehaviour
     public GameObject headphones, audio20, audio21, audio51;
     public Dropdown audioDropdown;
 
+    [SerializeField] AudioClip SonidoEnter, SonidoExit;
 
     // -------- BOTONS MENU PRINCIPAL --------
 
@@ -32,22 +33,27 @@ public class ButtonManager : MonoBehaviour
     {
         SceneManager.LoadScene(1);
 
+        AudioSource.PlayClipAtPoint(SonidoEnter, Camera.main.transform.position);
+
         Time.timeScale = 1; //evita que el joc comenci pausat
     }
 
     public void CreditsOnClick()
     {
         credits.SetActive(true);
+        AudioSource.PlayClipAtPoint(SonidoEnter, Camera.main.transform.position);
     }
 
     public void OptionsOnClick()
     {
         options.SetActive(true);
+        AudioSource.PlayClipAtPoint(SonidoEnter, Camera.main.transform.position);
     }
 
     public void ExitOnClick()
     {
-        exit.SetActive(true);
+        exit.SetActive(true); 
+        AudioSource.PlayClipAtPoint(SonidoExit, Camera.main.transform.position);
     }
 
 
@@ -56,6 +62,7 @@ public class ButtonManager : MonoBehaviour
     public void ExitYesOnClick()
     {
         Application.Quit();
+        AudioSource.PlayClipAtPoint(SonidoExit, Camera.main.transform.position);
     }
 
     public void ExitNoOnClick()
@@ -69,6 +76,7 @@ public class ButtonManager : MonoBehaviour
     public void OptionsReturnOnClick() 
     {
         options.SetActive(false);
+        AudioSource.PlayClipAtPoint(SonidoExit, Camera.main.transform.position);
     }
 
     public void StickyButtons(int a)    // funciona tant al menú d'inici com al de pausa
@@ -111,6 +119,7 @@ public class ButtonManager : MonoBehaviour
     public void CreditsReturnOnClick()
     {
         credits.SetActive(false);
+        AudioSource.PlayClipAtPoint(SonidoExit, Camera.main.transform.position);
     }
 
 
@@ -119,6 +128,7 @@ public class ButtonManager : MonoBehaviour
     public void PauseOnClick()
     {
         Time.timeScale = 0; //pausa el joc
+        AudioSource.PlayClipAtPoint(SonidoEnter, Camera.main.transform.position);
 
         pauseMenu.SetActive(true);
     }
@@ -128,23 +138,28 @@ public class ButtonManager : MonoBehaviour
 
     public void PauseMenuOptionsOnClick()
     {
+        AudioSource.PlayClipAtPoint(SonidoEnter, Camera.main.transform.position);
         options.SetActive(true);
         pauseMenu.SetActive(false);
     }
 
     public void PauseMenuCreditsOnClick()
     {
+        AudioSource.PlayClipAtPoint(SonidoEnter, Camera.main.transform.position);
         credits.SetActive(true);
         pauseMenu.SetActive(false);
     }
 
     public void PauseMenuMenuOnClick()
     {
+        AudioSource.PlayClipAtPoint(SonidoEnter, Camera.main.transform.position);
         SceneManager.LoadScene(0);
     }
 
     public void PauseMenuReturnOnClick()
     {
+        AudioSource.PlayClipAtPoint(SonidoExit, Camera.main.transform.position);
+
         pauseMenu.SetActive(false);
 
         Time.timeScale = 1; //torna a activar el temps del joc
@@ -157,6 +172,8 @@ public class ButtonManager : MonoBehaviour
     {
         credits.SetActive(false);
         pauseMenu.SetActive(true);
+
+        AudioSource.PlayClipAtPoint(SonidoExit, Camera.main.transform.position);
     }
 
 
@@ -166,6 +183,8 @@ public class ButtonManager : MonoBehaviour
     {
         options.SetActive(false);
         pauseMenu.SetActive(true);
+
+        AudioSource.PlayClipAtPoint(SonidoExit, Camera.main.transform.position);
     }
 
 

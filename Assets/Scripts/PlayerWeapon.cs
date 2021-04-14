@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerWeapon : MonoBehaviour
 {
+    [SerializeField] AudioClip disparo;
     [SerializeField] GameObject cannon1;
     [SerializeField] GameObject cannon2;
     [SerializeField] GameObject laser;
@@ -28,7 +29,8 @@ public class PlayerWeapon : MonoBehaviour
             if (Time.time >= timer) { 
                 Instantiate(laser, cannon1.transform.position, cannon1.transform.rotation);
                 Instantiate(laser, cannon2.transform.position, cannon2.transform.rotation);
-                foreach(GameObject g in laseresExtra)
+                AudioSource.PlayClipAtPoint(disparo, Camera.main.transform.position);
+                foreach (GameObject g in laseresExtra)
                 {
                     if (g.GetComponent<LaserExtra>().activo)
                     {

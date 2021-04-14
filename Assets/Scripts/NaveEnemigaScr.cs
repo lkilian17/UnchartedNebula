@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class NaveEnemigaScr : MonoBehaviour
 {
+    [SerializeField] AudioClip destruir, damage;
+
     Rigidbody2D rb;
     [SerializeField] GameObject pickUpAmmo;
     [SerializeField] GameObject pickUpVida;
@@ -60,6 +62,7 @@ public class NaveEnemigaScr : MonoBehaviour
 
     private void DestruirEnemigo()
     {
+        AudioSource.PlayClipAtPoint(destruir, Camera.main.transform.position);
         Instantiate(explosion, transform.position, transform.rotation);
         int rand = Random.Range(1, 8);
         if (rand == 7)
@@ -152,6 +155,7 @@ public class NaveEnemigaScr : MonoBehaviour
 
     public void TakeDamage(int dmg)
     {
+        AudioSource.PlayClipAtPoint(damage, Camera.main.transform.position);
         vidaActual -= dmg;
         if (vidaActual <= 0 && !destroyed){
             destroyed = true;

@@ -11,6 +11,7 @@ public class EnemySpawner : MonoBehaviour
     [SerializeField] GameObject bossFinal;
     [SerializeField] GameObject bossSpawn;
     [SerializeField] int rondasMax = 15;
+    [SerializeField] GameObject astronauta;
     private float globalDelay = 8;
     private int spawnCounter = 0;
     void Start()
@@ -30,6 +31,10 @@ public class EnemySpawner : MonoBehaviour
     {
         print(spawnCounter);
         yield return new WaitForSeconds(delay);
+        if (spawnCounter == 4)
+        {
+            astronauta.GetComponent<ObjetoFondo>().enabled = true;
+        }
         if (spawnCounter <= rondasMax) { 
         SpawnEnemigos();
         StartCoroutine(RondaSpawn(globalDelay));

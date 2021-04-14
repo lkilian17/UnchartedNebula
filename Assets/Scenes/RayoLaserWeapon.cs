@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class RayoLaserWeapon : MonoBehaviour
 {
+    [SerializeField] AudioClip Laser;
+
     [SerializeField] GameObject rayoLaser;
     [SerializeField] GameObject rayoPoint;
     private bool ataqueActivado = false;
@@ -41,6 +43,7 @@ public class RayoLaserWeapon : MonoBehaviour
 
     public void spawnLaser()
     {
+        AudioSource.PlayClipAtPoint(Laser, Camera.main.transform.position);
         GameObject laser = Instantiate(rayoLaser, rayoPoint.transform.position, rayoPoint.transform.rotation);
         laser.transform.parent = gameObject.transform;
     }

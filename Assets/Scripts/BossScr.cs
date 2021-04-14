@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class BossScr : MonoBehaviour
 {
+    [SerializeField] AudioClip damage, muerte, victory; 
+    
     public int vidaInicial = 45;
     public int vidaActual;
     [SerializeField] GameObject pickupAmmo;
@@ -40,6 +42,7 @@ public class BossScr : MonoBehaviour
     // Update is called once per frame
     public void TakeDamage(int dmg)
     {
+        AudioSource.PlayClipAtPoint(damage, Camera.main.transform.position);
         vidaActual = vidaActual -= 1;
 
         int rand = Random.Range(1, 60);
@@ -60,6 +63,7 @@ public class BossScr : MonoBehaviour
 
         if (vidaActual <= 0)
         {
+            AudioSource.PlayClipAtPoint(muerte, Camera.main.transform.position);
             Instantiate(Explosion, transform.position, transform.rotation);
             gameObject.GetComponent<SpriteRenderer>().enabled = false;
             StartCoroutine(DestruirEnemigo());
@@ -74,6 +78,7 @@ public class BossScr : MonoBehaviour
     {
         yield return new WaitForSeconds(2);
         GameObject.FindGameObjectWithTag("MenuManager").GetComponent<ButtonManager>().VictoryScreen();
+        AudioSource.PlayClipAtPoint(victory, Camera.main.transform.position);
         Destroy(gameObject);
     }
 }

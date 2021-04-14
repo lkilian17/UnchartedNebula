@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PowerUpVida : MonoBehaviour
 {
+    [SerializeField] AudioClip recogerPickup;
     Rigidbody2D rb;
     Vector2 moviment = new Vector2();
     // Start is called before the first frame update
@@ -23,6 +24,9 @@ public class PowerUpVida : MonoBehaviour
         {
             if (collision.GetComponent<PlayerStatus>().vidaActual < collision.GetComponent<PlayerStatus>().vidaInicial)
             collision.GetComponent<PlayerStatus>().vidaActual += 1;
+
+            AudioSource.PlayClipAtPoint(recogerPickup, Camera.main.transform.position);
+
             Destroy(gameObject);
         }
     }

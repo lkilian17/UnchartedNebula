@@ -4948,6 +4948,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84d2340017f407046a58a08a90e384e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  recogerPickup: {fileID: 8300000, guid: 52a77941448f4704e8d9a843c00e5a65, type: 3}
 --- !u!1 &8538281330683877794
 GameObject:
   m_ObjectHideFlags: 0

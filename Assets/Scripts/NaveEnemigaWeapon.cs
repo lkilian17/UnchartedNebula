@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class NaveEnemigaWeapon : MonoBehaviour
 {
+    [SerializeField] AudioClip disparo;
     [SerializeField] Transform[] cannons;
     [SerializeField] GameObject proyectil;
     [SerializeField] int doubleShot = 0;
@@ -32,6 +33,7 @@ public class NaveEnemigaWeapon : MonoBehaviour
             {
                 foreach (Transform c in cannons){ 
                 Instantiate(proyectil, c.position, c.rotation);
+                AudioSource.PlayClipAtPoint(disparo, Camera.main.transform.position);
                 }
                 if (!extraShot) { 
                     shotCount++;

@@ -270,6 +270,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac9af842f27e16147869e8a9c6d94cc8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  destruir: {fileID: 8300000, guid: ff8a779adedfa93449652f471f97c75b, type: 3}
+  damage: {fileID: 8300000, guid: 642d7ce6080f9d240bda85275f918a6f, type: 3}
   pickUpAmmo: {fileID: 5687408818179754807, guid: 06ebfd96e1efea54788af7f22f73d672, type: 3}
   pickUpVida: {fileID: 5687408818179754807, guid: a63ec7df76851fe448017d9c4ceb0c5b, type: 3}
   explosion: {fileID: 6873980877609491762, guid: fd6f612fc44dcb14d92c9083abe202a2, type: 3}
@@ -316,6 +318,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e22c1ef0f8c9eef498f2019f778238d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Laser: {fileID: 8300000, guid: 4712e72806b420141b42872933543577, type: 3}
   rayoLaser: {fileID: 6241437834377397860, guid: a49a2d9284f7eae4db63c10d97a9f08c, type: 3}
   rayoPoint: {fileID: 3905855233297950163}
   shotCD: 4

@@ -64,3 +64,6 @@ TagManager:
   - name: PickUps
     uniqueID: 3656902227
     locked: 0
+  - name: Astronauta
+    uniqueID: 1943585015
+    locked: 0

@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PowerUpAmmo : MonoBehaviour
 {
+    [SerializeField] AudioClip recogerPickup;
     PlayerWeapon weapon;
     Rigidbody2D rb;
     Vector2 moviment = new Vector2();
@@ -33,6 +34,8 @@ public class PowerUpAmmo : MonoBehaviour
         {
             weapon.ActivarCañones();
             Destroy(gameObject);
+
+            AudioSource.PlayClipAtPoint(recogerPickup, Camera.main.transform.position);
         }
     }
 }
