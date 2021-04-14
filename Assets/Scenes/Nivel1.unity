@@ -4498,7 +4498,7 @@ MonoBehaviour:
   enemy3: {fileID: 466808036519788985, guid: 4732079c441c8844aa2a8be925836af3, type: 3}
   bossFinal: {fileID: 6295417788650447959, guid: 8cd8d7541615d204785719ea23f4f090, type: 3}
   bossSpawn: {fileID: 531573961}
-  rondasMax: 7
+  rondasMax: 1
   astronauta: {fileID: 1783774632}
 --- !u!4 &661885818
 Transform:

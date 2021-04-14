@@ -7,6 +7,7 @@ public class LaserScr : MonoBehaviour
     // Start is called before the first frame update
     public bool enemigo;
     public float speed;
+    [SerializeField] bool fuegoBoss = false;
     Rigidbody2D rb;
     [SerializeField] GameObject explosion;
     void Start()
@@ -18,7 +19,13 @@ public class LaserScr : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        rb.velocity = transform.up*-speed;    
+        if (!fuegoBoss) { 
+        rb.velocity = transform.up*-speed;
+        }
+        else
+        {
+        rb.velocity = transform.right * speed;
+        }
     }
 
 
